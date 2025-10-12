@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 09, 2025
+title: Latest 15 Papers - October 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## MLIR
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Interleaved Learning and Exploration: A Self-Adaptive Fuzz Testing Framework for MLIR](http://arxiv.org/abs/2510.07815v1)** | 2025-10-09 |  |
 | **[Mojo: MLIR-Based Performance-Portable HPC Science Kernels on GPUs for the Python Ecosystem](http://arxiv.org/abs/2509.21039v1)** | 2025-09-25 | <details><summary>Accep...</summary><p>Accepted at the IEEE/ACM SC25 Conference WACCPD Workshop. The International Conference for High Performance Computing, Networking, Storage, and Analysis, St. Louis, MO, Nov 16-21, 2025. 15 pages, 7 figures. WFG and TM contributed equally</p></details> |
 | **[WAMI: Compilation to WebAssembly through MLIR without Losing Abstraction](http://arxiv.org/abs/2506.16048v1)** | 2025-06-19 |  |
 | **[DESIL: Detecting Silent Bugs in MLIR Compiler Infrastructure](http://arxiv.org/abs/2504.01379v1)** | 2025-04-02 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Experiences Building an MLIR-based SYCL Compiler](http://arxiv.org/abs/2312.13170v1)** | 2023-12-20 | <details><summary>12 pa...</summary><p>12 pages, 3 figures To be published in International Symposium on Code Generation and Optimization (CGO) 2024</p></details> |
 | **[Fortran performance optimisation and auto-parallelisation by leveraging MLIR-based domain specific abstractions in Flang](http://arxiv.org/abs/2310.01882v1)** | 2023-10-03 | <details><summary>Autho...</summary><p>Author accepted version of paper in ACM Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis (SC-W 2023)</p></details> |
 | **[Platform-Aware FPGA System Architecture Generation based on MLIR](http://arxiv.org/abs/2309.12917v1)** | 2023-09-22 | <details><summary>Accep...</summary><p>Accepted for presentation at the CPS workshop 2023 (http://www.cpsschool.eu/cps-workshop)</p></details> |
-| **[SEER: Super-Optimization Explorer for HLS using E-graph Rewriting with MLIR](http://arxiv.org/abs/2308.07654v1)** | 2023-08-15 |  |
 
 ## Sparse Data Structure
 | **Title** | **Date** | **Comment** |
