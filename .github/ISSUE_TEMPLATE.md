@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 12, 2025
+title: Latest 15 Papers - October 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,13 +45,13 @@ labels: documentation
 ## Tensor Formats
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Model order reduction of parametric dynamical systems by slice sampling tensor completion](http://arxiv.org/abs/2411.07151v3)** | 2025-10-11 |  |
 | **[A new cross approximation for Tucker tensors and its application in Tucker-Anderson Acceleration](http://arxiv.org/abs/2509.18554v1)** | 2025-09-23 |  |
 | **[ReLATE: Learning Efficient Sparse Encoding for High-Performance Tensor Decomposition](http://arxiv.org/abs/2509.00280v1)** | 2025-08-29 |  |
 | **[Binsparse: A Specification for Cross-Platform Storage of Sparse Matrices and Tensors](http://arxiv.org/abs/2506.19175v1)** | 2025-06-23 |  |
 | **[Wildfire Detection Using Vision Transformer with the Wildfire Dataset](http://arxiv.org/abs/2505.17395v1)** | 2025-05-23 | <details><summary>Publi...</summary><p>Published at ASEE NE 2025</p></details> |
 | **[Irregular Tensor Low-Rank Representation for Hyperspectral Image Representation](http://arxiv.org/abs/2410.18388v4)** | 2025-05-18 | Accepted by TIP |
 | **[Dynamical low-rank tensor approximations to high-dimensional parabolic problems: existence and convergence of spatial discretizations](http://arxiv.org/abs/2308.16720v2)** | 2025-05-16 |  |
-| **[Model order reduction of parametric dynamical systems by slice sampling tensor completion](http://arxiv.org/abs/2411.07151v2)** | 2025-04-10 |  |
 | **[A vector bundle approach to Nash equilibria](http://arxiv.org/abs/2504.03456v1)** | 2025-04-04 | <details><summary>34 pa...</summary><p>34 pages, 2 tables. Comments are welcome!</p></details> |
 | **[Accelerating Sparse Tensor Decomposition Using Adaptive Linearized Representation](http://arxiv.org/abs/2403.06348v2)** | 2025-03-15 | <details><summary>Accep...</summary><p>Accepted to TPDS 2025</p></details> |
 | **[Inexact subspace projection methods for low-rank tensor eigenvalue problems](http://arxiv.org/abs/2502.19578v2)** | 2025-03-10 | 27 pages, 7 figures |
