@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 20, 2025
+title: Latest 15 Papers - October 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -35,16 +35,12 @@ labels: documentation
 | **[TCAM-SSD: A Framework for Search-Based Computing in Solid-State Drives](http://arxiv.org/abs/2403.06938v1)** | 2024-03-11 |  |
 | **[UniSparse: An Intermediate Language for General Sparse Format Customization](http://arxiv.org/abs/2403.05802v1)** | 2024-03-09 | <details><summary>to be...</summary><p>to be published in OOPSLA'24</p></details> |
 | **[SUREL+: Moving from Walks to Sets for Scalable Subgraph-based Graph Representation Learning](http://arxiv.org/abs/2303.03379v3)** | 2023-12-27 | <details><summary>This ...</summary><p>This is an extended version of the full paper that appeared in PVLDB 16.11(VLDB 2023)</p></details> |
-| **[Contracting Tsetlin Machine with Absorbing Automata](http://arxiv.org/abs/2310.11481v1)** | 2023-10-17 | <details><summary>Accep...</summary><p>Accepted to ISTM2023. 7 pages, 8 figures</p></details> |
-| **[Sparse Stream Semantic Registers: A Lightweight ISA Extension Accelerating General Sparse Linear Algebra](http://arxiv.org/abs/2305.05559v2)** | 2023-10-02 | <details><summary>15 pa...</summary><p>15 pages, 8 figures. Accepted for publication in IEEE TPDS</p></details> |
-| **[Massive Data-Centric Parallelism in the Chiplet Era](http://arxiv.org/abs/2304.09389v3)** | 2023-08-11 |  |
-| **[Stochastic Texture Filtering](http://arxiv.org/abs/2305.05810v2)** | 2023-05-15 | 15 pages |
-| **[FSCNN: A Fast Sparse Convolution Neural Network Inference System](http://arxiv.org/abs/2212.08815v1)** | 2022-12-17 | <details><summary>techn...</summary><p>technical report, sparse CNN</p></details> |
-| **[SpDISTAL: Compiling Distributed Sparse Tensor Computations](http://arxiv.org/abs/2207.13901v1)** | 2022-07-28 |  |
 
 ## Tensor Formats
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Continuous Tensor Abstraction: Where Indices are Real](http://arxiv.org/abs/2407.01742v2)** | 2025-10-20 |  |
+| **[A mesh-free hybrid Chebyshev-Tucker tensor format with applications to multi-particle modelling](http://arxiv.org/abs/2503.01696v2)** | 2025-10-18 |  |
 | **[Inexact subspace projection methods for low-rank tensor eigenvalue problems](http://arxiv.org/abs/2502.19578v3)** | 2025-10-15 | 25 pages, 7 figures |
 | **[Model order reduction of parametric dynamical systems by slice sampling tensor completion](http://arxiv.org/abs/2411.07151v3)** | 2025-10-11 |  |
 | **[A new cross approximation for Tucker tensors and its application in Tucker-Anderson Acceleration](http://arxiv.org/abs/2509.18554v1)** | 2025-09-23 |  |
@@ -55,9 +51,7 @@ labels: documentation
 | **[Dynamical low-rank tensor approximations to high-dimensional parabolic problems: existence and convergence of spatial discretizations](http://arxiv.org/abs/2308.16720v2)** | 2025-05-16 |  |
 | **[A vector bundle approach to Nash equilibria](http://arxiv.org/abs/2504.03456v1)** | 2025-04-04 | <details><summary>34 pa...</summary><p>34 pages, 2 tables. Comments are welcome!</p></details> |
 | **[Accelerating Sparse Tensor Decomposition Using Adaptive Linearized Representation](http://arxiv.org/abs/2403.06348v2)** | 2025-03-15 | <details><summary>Accep...</summary><p>Accepted to TPDS 2025</p></details> |
-| **[A mesh-free hybrid Chebyshev-Tucker tensor format with applications to multi-particle modelling](http://arxiv.org/abs/2503.01696v1)** | 2025-03-03 |  |
 | **[SySTeC: A Symmetric Sparse Tensor Compiler](http://arxiv.org/abs/2406.09266v2)** | 2025-01-23 |  |
 | **[Provable Low-Rank Tensor-Train Approximations in the Inverse of Large-Scale Structured Matrices](http://arxiv.org/abs/2501.07210v1)** | 2025-01-13 |  |
 | **[Desingularization of bounded-rank tensor sets](http://arxiv.org/abs/2411.14093v1)** | 2024-11-21 | <details><summary>41 pa...</summary><p>41 pages, 10 figures, 1 table</p></details> |
-| **[The Continuous Tensor Abstraction: Where Indices are Real](http://arxiv.org/abs/2407.01742v1)** | 2024-07-01 |  |
 
