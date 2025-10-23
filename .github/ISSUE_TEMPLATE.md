@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 22, 2025
+title: Latest 15 Papers - October 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,7 +45,7 @@ labels: documentation
 ## Tensor Formats
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[The Continuous Tensor Abstraction: Where Indices are Real](http://arxiv.org/abs/2407.01742v2)** | 2025-10-20 |  |
+| **[The Continuous Tensor Abstraction: Where Indices are Real](http://arxiv.org/abs/2407.01742v3)** | 2025-10-22 |  |
 | **[A mesh-free hybrid Chebyshev-Tucker tensor format with applications to multi-particle modelling](http://arxiv.org/abs/2503.01696v2)** | 2025-10-18 |  |
 | **[Inexact subspace projection methods for low-rank tensor eigenvalue problems](http://arxiv.org/abs/2502.19578v3)** | 2025-10-15 | 25 pages, 7 figures |
 | **[Model order reduction of parametric dynamical systems by slice sampling tensor completion](http://arxiv.org/abs/2411.07151v3)** | 2025-10-11 |  |
