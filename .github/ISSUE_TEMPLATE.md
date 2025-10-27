@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 26, 2025
+title: Latest 15 Papers - October 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -17,11 +17,6 @@ labels: documentation
 | **[A Reinforcement Learning Environment for Automatic Code Optimization in the MLIR Compiler](http://arxiv.org/abs/2409.11068v1)** | 2024-09-17 |  |
 | **[The MLIR Transform Dialect. Your compiler is more powerful than you think](http://arxiv.org/abs/2409.03864v2)** | 2024-09-09 |  |
 | **[Fuzzing MLIR Compilers with Custom Mutation Synthesis](http://arxiv.org/abs/2404.16947v2)** | 2024-08-27 |  |
-| **[DSP-MLIR: A MLIR Dialect for Digital Signal Processing](http://arxiv.org/abs/2408.11205v1)** | 2024-08-20 |  |
-| **[Towards a high-performance AI compiler with upstream MLIR](http://arxiv.org/abs/2404.15204v1)** | 2024-04-15 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, presented at CGO C4ML 2024 & MLIR Workshop EuroLLVM 2024</p></details> |
-| **[An Optimizing Framework on MLIR for Efficient FPGA-based Accelerator Generation](http://arxiv.org/abs/2401.05154v1)** | 2024-01-10 | Accepted by HPCA2024 |
-| **[Experiences Building an MLIR-based SYCL Compiler](http://arxiv.org/abs/2312.13170v1)** | 2023-12-20 | <details><summary>12 pa...</summary><p>12 pages, 3 figures To be published in International Symposium on Code Generation and Optimization (CGO) 2024</p></details> |
-| **[Fortran performance optimisation and auto-parallelisation by leveraging MLIR-based domain specific abstractions in Flang](http://arxiv.org/abs/2310.01882v1)** | 2023-10-03 | <details><summary>Autho...</summary><p>Author accepted version of paper in ACM Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis (SC-W 2023)</p></details> |
 
 ## Sparse Data Structure
 | **Title** | **Date** | **Comment** |
@@ -35,6 +30,12 @@ labels: documentation
 | **[TCAM-SSD: A Framework for Search-Based Computing in Solid-State Drives](http://arxiv.org/abs/2403.06938v1)** | 2024-03-11 |  |
 | **[UniSparse: An Intermediate Language for General Sparse Format Customization](http://arxiv.org/abs/2403.05802v1)** | 2024-03-09 | <details><summary>to be...</summary><p>to be published in OOPSLA'24</p></details> |
 | **[SUREL+: Moving from Walks to Sets for Scalable Subgraph-based Graph Representation Learning](http://arxiv.org/abs/2303.03379v3)** | 2023-12-27 | <details><summary>This ...</summary><p>This is an extended version of the full paper that appeared in PVLDB 16.11(VLDB 2023)</p></details> |
+| **[Contracting Tsetlin Machine with Absorbing Automata](http://arxiv.org/abs/2310.11481v1)** | 2023-10-17 | <details><summary>Accep...</summary><p>Accepted to ISTM2023. 7 pages, 8 figures</p></details> |
+| **[Sparse Stream Semantic Registers: A Lightweight ISA Extension Accelerating General Sparse Linear Algebra](http://arxiv.org/abs/2305.05559v2)** | 2023-10-02 | <details><summary>15 pa...</summary><p>15 pages, 8 figures. Accepted for publication in IEEE TPDS</p></details> |
+| **[Massive Data-Centric Parallelism in the Chiplet Era](http://arxiv.org/abs/2304.09389v3)** | 2023-08-11 |  |
+| **[Stochastic Texture Filtering](http://arxiv.org/abs/2305.05810v2)** | 2023-05-15 | 15 pages |
+| **[FSCNN: A Fast Sparse Convolution Neural Network Inference System](http://arxiv.org/abs/2212.08815v1)** | 2022-12-17 | <details><summary>techn...</summary><p>technical report, sparse CNN</p></details> |
+| **[SpDISTAL: Compiling Distributed Sparse Tensor Computations](http://arxiv.org/abs/2207.13901v1)** | 2022-07-28 |  |
 
 ## Tensor Formats
 | **Title** | **Date** | **Comment** |
