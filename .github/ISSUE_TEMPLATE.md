@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 27, 2025
+title: Latest 15 Papers - October 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -17,6 +17,11 @@ labels: documentation
 | **[A Reinforcement Learning Environment for Automatic Code Optimization in the MLIR Compiler](http://arxiv.org/abs/2409.11068v1)** | 2024-09-17 |  |
 | **[The MLIR Transform Dialect. Your compiler is more powerful than you think](http://arxiv.org/abs/2409.03864v2)** | 2024-09-09 |  |
 | **[Fuzzing MLIR Compilers with Custom Mutation Synthesis](http://arxiv.org/abs/2404.16947v2)** | 2024-08-27 |  |
+| **[DSP-MLIR: A MLIR Dialect for Digital Signal Processing](http://arxiv.org/abs/2408.11205v1)** | 2024-08-20 |  |
+| **[Towards a high-performance AI compiler with upstream MLIR](http://arxiv.org/abs/2404.15204v1)** | 2024-04-15 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, presented at CGO C4ML 2024 & MLIR Workshop EuroLLVM 2024</p></details> |
+| **[An Optimizing Framework on MLIR for Efficient FPGA-based Accelerator Generation](http://arxiv.org/abs/2401.05154v1)** | 2024-01-10 | Accepted by HPCA2024 |
+| **[Experiences Building an MLIR-based SYCL Compiler](http://arxiv.org/abs/2312.13170v1)** | 2023-12-20 | <details><summary>12 pa...</summary><p>12 pages, 3 figures To be published in International Symposium on Code Generation and Optimization (CGO) 2024</p></details> |
+| **[Fortran performance optimisation and auto-parallelisation by leveraging MLIR-based domain specific abstractions in Flang](http://arxiv.org/abs/2310.01882v1)** | 2023-10-03 | <details><summary>Autho...</summary><p>Author accepted version of paper in ACM Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis (SC-W 2023)</p></details> |
 
 ## Sparse Data Structure
 | **Title** | **Date** | **Comment** |
