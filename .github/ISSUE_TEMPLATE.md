@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 29, 2025
+title: Latest 15 Papers - October 30, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -31,16 +31,6 @@ labels: documentation
 | **[Architecture Specific Generation of Large Scale Lattice Boltzmann Methods for Sparse Complex Geometries](http://arxiv.org/abs/2408.06880v1)** | 2024-08-13 | 16 pages, 19 figures |
 | **[Scorch: A Library for Sparse Deep Learning](http://arxiv.org/abs/2405.16883v2)** | 2024-06-20 | 25 pages, 8 figures |
 | **[Filtering After Shading With Stochastic Texture Filtering](http://arxiv.org/abs/2407.06107v1)** | 2024-05-14 | <details><summary>arXiv...</summary><p>arXiv admin note: substantial text overlap with arXiv:2305.05810</p></details> |
-| **[Tascade: Hardware Support for Atomic-free, Asynchronous and Efficient Reduction Trees](http://arxiv.org/abs/2311.15810v2)** | 2024-04-22 |  |
-| **[TCAM-SSD: A Framework for Search-Based Computing in Solid-State Drives](http://arxiv.org/abs/2403.06938v1)** | 2024-03-11 |  |
-| **[UniSparse: An Intermediate Language for General Sparse Format Customization](http://arxiv.org/abs/2403.05802v1)** | 2024-03-09 | <details><summary>to be...</summary><p>to be published in OOPSLA'24</p></details> |
-| **[SUREL+: Moving from Walks to Sets for Scalable Subgraph-based Graph Representation Learning](http://arxiv.org/abs/2303.03379v3)** | 2023-12-27 | <details><summary>This ...</summary><p>This is an extended version of the full paper that appeared in PVLDB 16.11(VLDB 2023)</p></details> |
-| **[Contracting Tsetlin Machine with Absorbing Automata](http://arxiv.org/abs/2310.11481v1)** | 2023-10-17 | <details><summary>Accep...</summary><p>Accepted to ISTM2023. 7 pages, 8 figures</p></details> |
-| **[Sparse Stream Semantic Registers: A Lightweight ISA Extension Accelerating General Sparse Linear Algebra](http://arxiv.org/abs/2305.05559v2)** | 2023-10-02 | <details><summary>15 pa...</summary><p>15 pages, 8 figures. Accepted for publication in IEEE TPDS</p></details> |
-| **[Massive Data-Centric Parallelism in the Chiplet Era](http://arxiv.org/abs/2304.09389v3)** | 2023-08-11 |  |
-| **[Stochastic Texture Filtering](http://arxiv.org/abs/2305.05810v2)** | 2023-05-15 | 15 pages |
-| **[FSCNN: A Fast Sparse Convolution Neural Network Inference System](http://arxiv.org/abs/2212.08815v1)** | 2022-12-17 | <details><summary>techn...</summary><p>technical report, sparse CNN</p></details> |
-| **[SpDISTAL: Compiling Distributed Sparse Tensor Computations](http://arxiv.org/abs/2207.13901v1)** | 2022-07-28 |  |
 
 ## Tensor Formats
 | **Title** | **Date** | **Comment** |
