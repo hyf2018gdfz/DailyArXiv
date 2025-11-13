@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 12, 2025
+title: Latest 15 Papers - November 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -13,15 +13,15 @@ labels: documentation
 | **[MLIR: A Compiler Infrastructure for the End of Moore's Law](https://arxiv.org/pdf/2002.11054v2)** | 2020-03-03 |  |
 | **[A MLIR Dialect for Quantum Assembly Languages](https://arxiv.org/pdf/2101.11365v1)** | 2021-01-28 |  |
 | **[MOM: Matrix Operations in MLIR](https://arxiv.org/pdf/2208.10391v1)** | 2022-08-23 | <details><summary>3 pag...</summary><p>3 pages, 1 figure, 1 table, and 3 listings. Short paper presented at 12th International Workshop on Polyhedral Compilation Techniques (IMPACT 22)</p></details> |
+| **[An MLIR pipeline for offloading Fortran to FPGAs via OpenMP](https://arxiv.org/pdf/2511.08713v1)** | 2025-11-13 | <details><summary>Autho...</summary><p>Author accepted version of paper published in SC25 LLVM workshop</p></details> |
 | **[DSP-MLIR: A MLIR Dialect for Digital Signal Processing](https://arxiv.org/pdf/2408.11205v1)** | 2025-06-23 |  |
 | **[DESIL: Detecting Silent Bugs in MLIR Compiler Infrastructure](https://arxiv.org/pdf/2504.01379v1)** | 2025-04-03 |  |
 | **[Fuzzing MLIR Compilers with Custom Mutation Synthesis](https://arxiv.org/pdf/2404.16947v2)** | 2024-08-28 |  |
 | **[Fully integrating the Flang Fortran compiler with standard MLIR](https://arxiv.org/pdf/2409.18824v1)** | 2024-09-30 | <details><summary>Autho...</summary><p>Author accepted version, to appear in proceedings of the tenth annual workshop on the LLVM compiler infrastructure in HPC</p></details> |
 | **[Compiling ONNX Neural Network Models Using MLIR](https://arxiv.org/pdf/2008.08272v2)** | 2020-10-02 | 8 pages |
+| **[WAMI: Compilation to WebAssembly through MLIR without Losing Abstraction](https://arxiv.org/pdf/2506.16048v1)** | 2025-06-23 |  |
 | **[Experiences Building an MLIR-based SYCL Compiler](https://arxiv.org/pdf/2312.13170v1)** | 2023-12-21 | <details><summary>12 pa...</summary><p>12 pages, 3 figures To be published in International Symposium on Code Generation and Optimization (CGO) 2024</p></details> |
 | **[Fortran performance optimisation and auto-parallelisation by leveraging MLIR-based domain specific abstractions in Flang](https://arxiv.org/pdf/2310.01882v1)** | 2023-10-04 | <details><summary>Autho...</summary><p>Author accepted version of paper in ACM Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis (SC-W 2023)</p></details> |
-| **[WAMI: Compilation to WebAssembly through MLIR without Losing Abstraction](https://arxiv.org/pdf/2506.16048v1)** | 2025-06-23 |  |
-| **[High Performance Code Generation in MLIR: An Early Case Study with GEMM](https://arxiv.org/pdf/2003.00532v1)** | 2020-03-03 |  |
 
 ## Sparse Data Structure
 | **Title** | **Date** | **Comment** |
