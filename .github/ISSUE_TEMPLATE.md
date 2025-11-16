@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 13, 2025
+title: Latest 15 Papers - November 16, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,57 +7,57 @@ labels: documentation
 ## MLIR
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TPU-MLIR: A Compiler For TPU Using MLIR](https://arxiv.org/pdf/2210.15016v2)** | 2023-02-10 | <details><summary>A way...</summary><p>A way to design AI Compiler for ASIC chips by MLIR</p></details> |
-| **[nelli: a lightweight frontend for MLIR](https://arxiv.org/pdf/2307.16080v2)** | 2023-08-15 |  |
-| **[Building Bridges: Julia as an MLIR Frontend](https://arxiv.org/pdf/2503.04771v1)** | 2025-03-10 | <details><summary>This ...</summary><p>This is the extended abstract of a master's thesis, hosted at https://lib.ugent.be/en/catalog/rug01:003212846?i=0 \nSupervised by: Prof. Bjorn De Sutter with counselling from: Dr. Tim Besard and Thomas Faingnaert</p></details> |
-| **[MLIR: A Compiler Infrastructure for the End of Moore's Law](https://arxiv.org/pdf/2002.11054v2)** | 2020-03-03 |  |
-| **[A MLIR Dialect for Quantum Assembly Languages](https://arxiv.org/pdf/2101.11365v1)** | 2021-01-28 |  |
-| **[MOM: Matrix Operations in MLIR](https://arxiv.org/pdf/2208.10391v1)** | 2022-08-23 | <details><summary>3 pag...</summary><p>3 pages, 1 figure, 1 table, and 3 listings. Short paper presented at 12th International Workshop on Polyhedral Compilation Techniques (IMPACT 22)</p></details> |
-| **[An MLIR pipeline for offloading Fortran to FPGAs via OpenMP](https://arxiv.org/pdf/2511.08713v1)** | 2025-11-13 | <details><summary>Autho...</summary><p>Author accepted version of paper published in SC25 LLVM workshop</p></details> |
-| **[DSP-MLIR: A MLIR Dialect for Digital Signal Processing](https://arxiv.org/pdf/2408.11205v1)** | 2025-06-23 |  |
-| **[DESIL: Detecting Silent Bugs in MLIR Compiler Infrastructure](https://arxiv.org/pdf/2504.01379v1)** | 2025-04-03 |  |
-| **[Fuzzing MLIR Compilers with Custom Mutation Synthesis](https://arxiv.org/pdf/2404.16947v2)** | 2024-08-28 |  |
-| **[Fully integrating the Flang Fortran compiler with standard MLIR](https://arxiv.org/pdf/2409.18824v1)** | 2024-09-30 | <details><summary>Autho...</summary><p>Author accepted version, to appear in proceedings of the tenth annual workshop on the LLVM compiler infrastructure in HPC</p></details> |
-| **[Compiling ONNX Neural Network Models Using MLIR](https://arxiv.org/pdf/2008.08272v2)** | 2020-10-02 | 8 pages |
-| **[WAMI: Compilation to WebAssembly through MLIR without Losing Abstraction](https://arxiv.org/pdf/2506.16048v1)** | 2025-06-23 |  |
-| **[Experiences Building an MLIR-based SYCL Compiler](https://arxiv.org/pdf/2312.13170v1)** | 2023-12-21 | <details><summary>12 pa...</summary><p>12 pages, 3 figures To be published in International Symposium on Code Generation and Optimization (CGO) 2024</p></details> |
-| **[Fortran performance optimisation and auto-parallelisation by leveraging MLIR-based domain specific abstractions in Flang](https://arxiv.org/pdf/2310.01882v1)** | 2023-10-04 | <details><summary>Autho...</summary><p>Author accepted version of paper in ACM Workshops of The International Conference on High Performance Computing, Network, Storage, and Analysis (SC-W 2023)</p></details> |
+| **[An MLIR pipeline for offloading Fortran to FPGAs via OpenMP](https://arxiv.org/abs/2511.08713v1)** | 2025-11-11 | <details><summary>Autho...</summary><p>Author accepted version of paper published in SC25 LLVM workshop</p></details> |
+| **[From Loop Nests to Silicon: Mapping AI Workloads onto AMD NPUs with MLIR-AIR](https://arxiv.org/abs/2510.14871v1)** | 2025-10-16 |  |
+| **[Interleaved Learning and Exploration: A Self-Adaptive Fuzz Testing Framework for MLIR](https://arxiv.org/abs/2510.07815v1)** | 2025-10-09 |  |
+| **[Mojo: MLIR-Based Performance-Portable HPC Science Kernels on GPUs for the Python Ecosystem](https://arxiv.org/abs/2509.21039v1)** | 2025-09-25 | <details><summary>Accep...</summary><p>Accepted at the IEEE/ACM SC25 Conference WACCPD Workshop. The International Conference for High Performance Computing, Networking, Storage, and Analysis, St. Louis, MO, Nov 16-21, 2025. 15 pages, 7 figures. WFG and TM contributed equally</p></details> |
+| **[WAMI: Compilation to WebAssembly through MLIR without Losing Abstraction](https://arxiv.org/abs/2506.16048v1)** | 2025-06-19 |  |
+| **[DESIL: Detecting Silent Bugs in MLIR Compiler Infrastructure](https://arxiv.org/abs/2504.01379v1)** | 2025-04-02 |  |
+| **[Building Bridges: Julia as an MLIR Frontend](https://arxiv.org/abs/2503.04771v1)** | 2025-02-14 | <details><summary>This ...</summary><p>This is the extended abstract of a master's thesis, hosted at https://lib.ugent.be/en/catalog/rug01:003212846?i=0 \nSupervised by: Prof. Bjorn De Sutter with counselling from: Dr. Tim Besard and Thomas Faingnaert</p></details> |
+| **[Fully integrating the Flang Fortran compiler with standard MLIR](https://arxiv.org/abs/2409.18824v1)** | 2024-09-27 | <details><summary>Autho...</summary><p>Author accepted version, to appear in proceedings of the tenth annual workshop on the LLVM compiler infrastructure in HPC</p></details> |
+| **[A Reinforcement Learning Environment for Automatic Code Optimization in the MLIR Compiler](https://arxiv.org/abs/2409.11068v1)** | 2024-09-17 |  |
+| **[The MLIR Transform Dialect. Your compiler is more powerful than you think](https://arxiv.org/abs/2409.03864v2)** | 2024-09-09 |  |
+| **[Fuzzing MLIR Compilers with Custom Mutation Synthesis](https://arxiv.org/abs/2404.16947v2)** | 2024-08-27 |  |
+| **[DSP-MLIR: A MLIR Dialect for Digital Signal Processing](https://arxiv.org/abs/2408.11205v1)** | 2024-08-20 |  |
+| **[Towards a high-performance AI compiler with upstream MLIR](https://arxiv.org/abs/2404.15204v1)** | 2024-04-15 | <details><summary>13 pa...</summary><p>13 pages, 8 figures, presented at CGO C4ML 2024 & MLIR Workshop EuroLLVM 2024</p></details> |
+| **[An Optimizing Framework on MLIR for Efficient FPGA-based Accelerator Generation](https://arxiv.org/abs/2401.05154v1)** | 2024-01-10 | Accepted by HPCA2024 |
+| **[Experiences Building an MLIR-based SYCL Compiler](https://arxiv.org/abs/2312.13170v1)** | 2023-12-20 | <details><summary>12 pa...</summary><p>12 pages, 3 figures To be published in International Symposium on Code Generation and Optimization (CGO) 2024</p></details> |
 
 ## Sparse Data Structure
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Sparse matrix linear models for structured high-throughput data](https://arxiv.org/pdf/1712.05767v4)** | 2021-03-01 | 35 pages, 7 figures |
-| **[Hierarchical sparse Bayesian learning for structural health monitoring with incomplete modal data](https://arxiv.org/pdf/1408.3685v1)** | 2015-07-02 | 41 pages, 8 figures |
-| **[Structure-preserving Sparse Identification of Nonlinear Dynamics for Data-driven Modeling](https://arxiv.org/pdf/2109.05364v1)** | 2021-09-14 |  |
-| **[Sparse Linear Discriminant Analysis for Multi-view Structured Data](https://arxiv.org/pdf/1911.05643v2)** | 2020-01-16 | 40 pages, 4 figures |
-| **[Coherent structure coloring: identification of coherent structures from sparse data using graph theory](https://arxiv.org/pdf/1610.00197v2)** | 2017-03-08 | <details><summary>In pr...</summary><p>In press at Journal of Fluid Mechanics. Software package available at http://dabirilab.com/software/</p></details> |
-| **[Sparse Variable Selection on High Dimensional Heterogeneous Data with Tree Structured Responses](https://arxiv.org/pdf/1711.08265v2)** | 2024-04-22 |  |
-| **[Hierarchical sparse Bayesian learning: theory and application for inferring structural damage from incomplete modal data](https://arxiv.org/pdf/1503.06267v1)** | 2015-03-29 | <details><summary>41 pa...</summary><p>41 pages, 8 figures, 3 tables. arXiv admin note: text overlap with arXiv:1408.3685</p></details> |
-| **[Algorithms and data structures for matrix-free finite element operators with MPI-parallel sparse multi-vectors](https://arxiv.org/pdf/1907.01005v1)** | 2019-07-03 | 29 pages, 12 figures |
-| **[SINDyG: Sparse Identification of Nonlinear Dynamical Systems from Graph-Structured Data, with Applications to Stuart-Landau Oscillator Networks](https://arxiv.org/pdf/2409.04463v5)** | 2025-08-14 |  |
-| **[Structured Inverted-File k-Means Clustering for High-Dimensional Sparse Data](https://arxiv.org/pdf/2103.16141v1)** | 2021-03-31 | 10 pages, 12 figures |
-| **[Online Structural Change-point Detection of High-dimensional Streaming Data via Dynamic Sparse Subspace Learning](https://arxiv.org/pdf/2009.11713v3)** | 2022-04-13 |  |
-| **[HashGraph -- Scalable Hash Tables Using A Sparse Graph Data Structure](https://arxiv.org/pdf/1907.02900v1)** | 2019-07-08 |  |
-| **[De-Biasing Structure Function Estimates From Sparse Time Series of the Solar Wind: A Data-Driven Approach](https://arxiv.org/pdf/2412.10053v2)** | 2025-06-04 | <details><summary>16 pa...</summary><p>16 pages, 8 figures, 2 tables</p></details> |
-| **[Sparse data to structured imageset transformation](https://arxiv.org/pdf/2005.10045v1)** | 2020-05-21 |  |
-| **[Beyond Regularization: Inherently Sparse Principal Component Analysis](https://arxiv.org/pdf/2510.03729v1)** | 2025-10-07 |  |
+| **[AHA! Animating Human Avatars in Diverse Scenes with Gaussian Splatting](https://arxiv.org/abs/2511.09827v1)** | 2025-11-13 |  |
+| **[Learning More by Seeing Less: Structure First Learning for Efficient, Transferable, and Human-Aligned Vision](https://arxiv.org/abs/2508.06696v2)** | 2025-11-12 |  |
+| **[Self-Supervised Implicit Attention Priors for Point Cloud Reconstruction](https://arxiv.org/abs/2511.04864v2)** | 2025-11-12 | Accepted at 3DV 2026 |
+| **[LLM-Guided Dynamic-UMAP for Personalized Federated Graph Learning](https://arxiv.org/abs/2511.09438v1)** | 2025-11-12 |  |
+| **[FedP$^2$EFT: Federated Learning to Personalize PEFT for Multilingual LLMs](https://arxiv.org/abs/2502.04387v3)** | 2025-11-12 | <details><summary>Accep...</summary><p>Accepted at the 40th Annual AAAI Conference on Artificial Intelligence (AAAI-26)</p></details> |
+| **[Hierarchical Structure-Property Alignment for Data-Efficient Molecular Generation and Editing](https://arxiv.org/abs/2511.08080v1)** | 2025-11-11 |  |
+| **[Global Optimization on Graph-Structured Data via Gaussian Processes with Spectral Representations](https://arxiv.org/abs/2511.07734v1)** | 2025-11-11 |  |
+| **[SpatialThinker: Reinforcing 3D Reasoning in Multimodal LLMs via Spatial Rewards](https://arxiv.org/abs/2511.07403v1)** | 2025-11-10 | <details><summary>Prepr...</summary><p>Preprint. Accepted at NeurIPS 2025 Workshops on SPACE in Vision, Language, and Embodied AI (SpaVLE), Embodied World Models for Decision Making (EWM), Aligning Reinforcement Learning Experimentalists and Theorists (ARLET), and Scaling Environments for Agents (SEA)</p></details> |
+| **[GauSSmart: Enhanced 3D Reconstruction through 2D Foundation Models and Geometric Filtering](https://arxiv.org/abs/2510.14270v3)** | 2025-11-10 |  |
+| **[NIRVAR: Network Informed Restricted Vector Autoregression](https://arxiv.org/abs/2407.13314v4)** | 2025-11-10 | 35 pages |
+| **[CGLE: Class-label Graph Link Estimator for Link Prediction](https://arxiv.org/abs/2511.06982v1)** | 2025-11-10 | <details><summary>Paper...</summary><p>Paper accepted at the IEEE International Conference on Data Mining (ICDM 2025)</p></details> |
+| **[Learning to Focus: Prioritizing Informative Histories with Structured Attention Mechanisms in Partially Observable Reinforcement Learning](https://arxiv.org/abs/2511.06946v1)** | 2025-11-10 | <details><summary>Accep...</summary><p>Accepted to Embodied World Models for Decision Making (EWM) Workshop at NeurIPS 2025</p></details> |
+| **[Robust Causal Discovery under Imperfect Structural Constraints](https://arxiv.org/abs/2511.06790v1)** | 2025-11-10 |  |
+| **[Non-Negative Stiefel Approximating Flow: Orthogonalish Matrix Optimization for Interpretable Embeddings](https://arxiv.org/abs/2511.06425v1)** | 2025-11-09 |  |
+| **[Environment-Driven Online LiDAR-Camera Extrinsic Calibration](https://arxiv.org/abs/2502.00801v3)** | 2025-11-09 |  |
 
 ## Tensor Formats
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Provable Tensor-Train Format Tensor Completion by Riemannian Optimization](https://arxiv.org/pdf/2108.12163v2)** | 2022-03-22 |  |
-| **[Format Abstraction for Sparse Tensor Algebra Compilers](https://arxiv.org/pdf/1804.10112v2)** | 2018-11-13 | <details><summary>Prese...</summary><p>Presented at OOPSLA 2018</p></details> |
-| **[Automatic Generation of Efficient Sparse Tensor Format Conversion Routines](https://arxiv.org/pdf/2001.02609v3)** | 2020-07-01 | <details><summary>Prese...</summary><p>Presented at PLDI 2020</p></details> |
-| **[Fast and Provable Tensor-Train Format Tensor Completion via Precondtioned Riemannian Gradient Descent](https://arxiv.org/pdf/2501.13385v1)** | 2025-01-24 |  |
-| **[Kriging in Tensor Train data format](https://arxiv.org/pdf/1904.09668v1)** | 2019-04-23 | <details><summary>19 pa...</summary><p>19 pages,4 figures, 1 table, UNCECOMP 2019 3rd International Conference on Uncertainty Quantification in Computational Sciences and Engineering 24-26 June 2019, Crete, Greece https://2019.uncecomp.org/</p></details> |
-| **[A robust GMRES algorithm in Tensor Train format](https://arxiv.org/pdf/2210.14533v1)** | 2022-10-27 |  |
-| **[Pricing high-dimensional Bermudan options with hierarchical tensor formats](https://arxiv.org/pdf/2103.01934v2)** | 2021-03-09 | <details><summary>26 pa...</summary><p>26 pages, 3 figures, 5 tables, added affiliations and update acknowledgements</p></details> |
-| **[Learning with tree-based tensor formats](https://arxiv.org/pdf/1811.04455v2)** | 2019-01-15 |  |
-| **[Extending Sparse Tensor Accelerators to Support Multiple Compression Formats](https://arxiv.org/pdf/2103.10452v1)** | 2021-03-22 | <details><summary>Accep...</summary><p>Accepted for publication at the 35th IEEE International Parallel & Distributed Processing Symposium (IPDPS 2021)</p></details> |
-| **[VENOM: A Vectorized N:M Format for Unleashing the Power of Sparse Tensor Cores](https://arxiv.org/pdf/2310.02065v1)** | 2023-10-04 | <details><summary>Accep...</summary><p>Accepted by 2023 International Conference on High Performance Computing, Networking, Storage and Analysis, 2023 (SC'23)</p></details> |
-| **[Solving high-dimensional parabolic PDEs using the tensor train format](https://arxiv.org/pdf/2102.11830v2)** | 2021-07-20 |  |
-| **[Performance of linear solvers in tensor-train format on current multicore architectures](https://arxiv.org/pdf/2312.08006v2)** | 2024-10-25 | <details><summary>28 pa...</summary><p>28 pages, 8 figures, submitted to IJHPCA</p></details> |
-| **[Geometry-aware training of factorized layers in tensor Tucker format](https://arxiv.org/pdf/2305.19059v2)** | 2025-08-22 |  |
-| **[Efficient computational homogenization via tensor train format](https://arxiv.org/pdf/2407.18870v1)** | 2024-07-29 | 25 pages, 7 figures |
-| **[Optimizing Tensor Programs on Flexible Storage](https://arxiv.org/pdf/2210.06267v1)** | 2022-10-13 |  |
+| **[MOSS: Efficient and Accurate FP8 LLM Training with Microscaling and Automatic Scaling](https://arxiv.org/abs/2511.05811v1)** | 2025-11-08 |  |
+| **[Exploring the Meta Flip Graph for Matrix Multiplication](https://arxiv.org/abs/2510.19787v1)** | 2025-10-22 |  |
+| **[The Continuous Tensor Abstraction: Where Indices are Real](https://arxiv.org/abs/2407.01742v3)** | 2025-10-22 |  |
+| **[Efficient Tensor Completion Algorithms for Highly Oscillatory Operators](https://arxiv.org/abs/2510.17734v2)** | 2025-10-21 |  |
+| **[Insum: Sparse GPU Kernels Simplified and Optimized with Indirect Einsums](https://arxiv.org/abs/2510.17505v1)** | 2025-10-20 |  |
+| **[Pruning Sparse Tensor Neural Networks Enables Deep Learning for 3D Ultrasound Localization Microscopy](https://arxiv.org/abs/2402.09359v2)** | 2025-10-16 |  |
+| **[Aixel: A Unified, Adaptive and Extensible System for AI-powered Data Analysis](https://arxiv.org/abs/2510.12642v1)** | 2025-10-14 |  |
+| **[Has the Two-Decade-Old Prophecy Come True? Artificial Bad Intelligence Triggered by Merely a Single-Bit Flip in Large Language Models](https://arxiv.org/abs/2510.00490v1)** | 2025-10-01 | 19 pages |
+| **[SBFA: Single Sneaky Bit Flip Attack to Break Large Language Models](https://arxiv.org/abs/2509.21843v1)** | 2025-09-26 | <details><summary>10 pa...</summary><p>10 pages, 4 figures, 5 tables, 2 equations. Topics: Bit-flip attacks, adversarial attacks, large language models (LLMs)</p></details> |
+| **[Optimal Formats for Weight Quantisation](https://arxiv.org/abs/2505.12988v2)** | 2025-09-25 |  |
+| **[Elucidating the Design Space of FP4 training](https://arxiv.org/abs/2509.17791v1)** | 2025-09-22 |  |
+| **[Voyager: An End-to-End Framework for Design-Space Exploration and Generation of DNN Accelerators](https://arxiv.org/abs/2509.15205v1)** | 2025-09-18 |  |
+| **[Conformalized Tensor Completion with Riemannian Optimization](https://arxiv.org/abs/2405.00581v2)** | 2025-09-07 |  |
+| **[MambaLite-Micro: Memory-Optimized Mamba Inference on MCUs](https://arxiv.org/abs/2509.05488v1)** | 2025-09-05 | 4 pages, 1 figures |
+| **[Deep Tensor Network](https://arxiv.org/abs/2311.11091v3)** | 2025-08-31 |  |
 
