@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 16, 2025
+title: Latest 15 Papers - November 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Sparse Data Structure
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sparse Methods for Vector Embeddings of TPC Data](https://arxiv.org/abs/2511.11221v1)** | 2025-11-14 | <details><summary>NeurI...</summary><p>NeurIPS Machine Learning and the Physical Sciences Workshop 2025</p></details> |
+| **[Dynamic Deep Graph Learning for Incomplete Multi-View Clustering with Masked Graph Reconstruction Loss](https://arxiv.org/abs/2511.11181v1)** | 2025-11-14 |  |
+| **[PrivDFS: Private Inference via Distributed Feature Sharing against Data Reconstruction Attacks](https://arxiv.org/abs/2508.04346v2)** | 2025-11-14 |  |
 | **[AHA! Animating Human Avatars in Diverse Scenes with Gaussian Splatting](https://arxiv.org/abs/2511.09827v1)** | 2025-11-13 |  |
 | **[Learning More by Seeing Less: Structure First Learning for Efficient, Transferable, and Human-Aligned Vision](https://arxiv.org/abs/2508.06696v2)** | 2025-11-12 |  |
 | **[Self-Supervised Implicit Attention Priors for Point Cloud Reconstruction](https://arxiv.org/abs/2511.04864v2)** | 2025-11-12 | Accepted at 3DV 2026 |
@@ -38,9 +41,6 @@ labels: documentation
 | **[NIRVAR: Network Informed Restricted Vector Autoregression](https://arxiv.org/abs/2407.13314v4)** | 2025-11-10 | 35 pages |
 | **[CGLE: Class-label Graph Link Estimator for Link Prediction](https://arxiv.org/abs/2511.06982v1)** | 2025-11-10 | <details><summary>Paper...</summary><p>Paper accepted at the IEEE International Conference on Data Mining (ICDM 2025)</p></details> |
 | **[Learning to Focus: Prioritizing Informative Histories with Structured Attention Mechanisms in Partially Observable Reinforcement Learning](https://arxiv.org/abs/2511.06946v1)** | 2025-11-10 | <details><summary>Accep...</summary><p>Accepted to Embodied World Models for Decision Making (EWM) Workshop at NeurIPS 2025</p></details> |
-| **[Robust Causal Discovery under Imperfect Structural Constraints](https://arxiv.org/abs/2511.06790v1)** | 2025-11-10 |  |
-| **[Non-Negative Stiefel Approximating Flow: Orthogonalish Matrix Optimization for Interpretable Embeddings](https://arxiv.org/abs/2511.06425v1)** | 2025-11-09 |  |
-| **[Environment-Driven Online LiDAR-Camera Extrinsic Calibration](https://arxiv.org/abs/2502.00801v3)** | 2025-11-09 |  |
 
 ## Tensor Formats
 | **Title** | **Date** | **Comment** |
