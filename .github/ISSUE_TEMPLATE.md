@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 17, 2025
+title: Latest 15 Papers - November 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,25 +26,26 @@ labels: documentation
 ## Sparse Data Structure
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Statistically Accurate and Robust Generative Prediction of Rock Discontinuities with A Tabular Foundation Model](https://arxiv.org/abs/2511.13339v1)** | 2025-11-17 |  |
+| **[Likelihood-guided Regularization in Attention Based Models](https://arxiv.org/abs/2511.13221v1)** | 2025-11-17 |  |
+| **[Efficient Solvers for SLOPE in R, Python, Julia, and C++](https://arxiv.org/abs/2511.02430v2)** | 2025-11-17 | 30 pages, 8 figures |
+| **[Bi-View Embedding Fusion: A Hybrid Learning Approach for Knowledge Graph's Nodes Classification Addressing Problems with Limited Data](https://arxiv.org/abs/2511.13044v1)** | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted at the 14th International Joint Conference on Knowledge Graphs (IJCKG) 2025</p></details> |
+| **[Improving the Generalisation of Learned Reconstruction Frameworks](https://arxiv.org/abs/2511.12730v1)** | 2025-11-16 | 11 pages, 8 figures |
+| **[Transfer learning for high-dimensional Factor-augmented sparse model](https://arxiv.org/abs/2511.12435v1)** | 2025-11-16 | 52 pages, 2 figures |
+| **[Improving Graph Embeddings in Machine Learning Using Knowledge Completion with Validation in a Case Study on COVID-19 Spread](https://arxiv.org/abs/2511.12071v1)** | 2025-11-15 | <details><summary>Accep...</summary><p>Accepted at the 16th IEEE International Conference on Knowledge Graphs (ICKG) 2025</p></details> |
+| **[GUSLO: General and Unified Structured Light Optimization](https://arxiv.org/abs/2501.14659v2)** | 2025-11-15 |  |
+| **[From Events to Clarity: The Event-Guided Diffusion Framework for Dehazing](https://arxiv.org/abs/2511.11944v1)** | 2025-11-14 | <details><summary>11 pa...</summary><p>11 pages, 8 figures. Completed in April 2025</p></details> |
 | **[Sparse Methods for Vector Embeddings of TPC Data](https://arxiv.org/abs/2511.11221v1)** | 2025-11-14 | <details><summary>NeurI...</summary><p>NeurIPS Machine Learning and the Physical Sciences Workshop 2025</p></details> |
 | **[Dynamic Deep Graph Learning for Incomplete Multi-View Clustering with Masked Graph Reconstruction Loss](https://arxiv.org/abs/2511.11181v1)** | 2025-11-14 |  |
 | **[PrivDFS: Private Inference via Distributed Feature Sharing against Data Reconstruction Attacks](https://arxiv.org/abs/2508.04346v2)** | 2025-11-14 |  |
 | **[AHA! Animating Human Avatars in Diverse Scenes with Gaussian Splatting](https://arxiv.org/abs/2511.09827v1)** | 2025-11-13 |  |
 | **[Learning More by Seeing Less: Structure First Learning for Efficient, Transferable, and Human-Aligned Vision](https://arxiv.org/abs/2508.06696v2)** | 2025-11-12 |  |
 | **[Self-Supervised Implicit Attention Priors for Point Cloud Reconstruction](https://arxiv.org/abs/2511.04864v2)** | 2025-11-12 | Accepted at 3DV 2026 |
-| **[LLM-Guided Dynamic-UMAP for Personalized Federated Graph Learning](https://arxiv.org/abs/2511.09438v1)** | 2025-11-12 |  |
-| **[FedP$^2$EFT: Federated Learning to Personalize PEFT for Multilingual LLMs](https://arxiv.org/abs/2502.04387v3)** | 2025-11-12 | <details><summary>Accep...</summary><p>Accepted at the 40th Annual AAAI Conference on Artificial Intelligence (AAAI-26)</p></details> |
-| **[Hierarchical Structure-Property Alignment for Data-Efficient Molecular Generation and Editing](https://arxiv.org/abs/2511.08080v1)** | 2025-11-11 |  |
-| **[Global Optimization on Graph-Structured Data via Gaussian Processes with Spectral Representations](https://arxiv.org/abs/2511.07734v1)** | 2025-11-11 |  |
-| **[SpatialThinker: Reinforcing 3D Reasoning in Multimodal LLMs via Spatial Rewards](https://arxiv.org/abs/2511.07403v1)** | 2025-11-10 | <details><summary>Prepr...</summary><p>Preprint. Accepted at NeurIPS 2025 Workshops on SPACE in Vision, Language, and Embodied AI (SpaVLE), Embodied World Models for Decision Making (EWM), Aligning Reinforcement Learning Experimentalists and Theorists (ARLET), and Scaling Environments for Agents (SEA)</p></details> |
-| **[GauSSmart: Enhanced 3D Reconstruction through 2D Foundation Models and Geometric Filtering](https://arxiv.org/abs/2510.14270v3)** | 2025-11-10 |  |
-| **[NIRVAR: Network Informed Restricted Vector Autoregression](https://arxiv.org/abs/2407.13314v4)** | 2025-11-10 | 35 pages |
-| **[CGLE: Class-label Graph Link Estimator for Link Prediction](https://arxiv.org/abs/2511.06982v1)** | 2025-11-10 | <details><summary>Paper...</summary><p>Paper accepted at the IEEE International Conference on Data Mining (ICDM 2025)</p></details> |
-| **[Learning to Focus: Prioritizing Informative Histories with Structured Attention Mechanisms in Partially Observable Reinforcement Learning](https://arxiv.org/abs/2511.06946v1)** | 2025-11-10 | <details><summary>Accep...</summary><p>Accepted to Embodied World Models for Decision Making (EWM) Workshop at NeurIPS 2025</p></details> |
 
 ## Tensor Formats
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MACKO: Sparse Matrix-Vector Multiplication for Low Sparsity](https://arxiv.org/abs/2511.13061v1)** | 2025-11-17 | <details><summary>8 pag...</summary><p>8 pages + 7 pages appendix, 11 figures, Code available at https://github.com/vlejd/macko_spmv</p></details> |
 | **[MOSS: Efficient and Accurate FP8 LLM Training with Microscaling and Automatic Scaling](https://arxiv.org/abs/2511.05811v1)** | 2025-11-08 |  |
 | **[Exploring the Meta Flip Graph for Matrix Multiplication](https://arxiv.org/abs/2510.19787v1)** | 2025-10-22 |  |
 | **[The Continuous Tensor Abstraction: Where Indices are Real](https://arxiv.org/abs/2407.01742v3)** | 2025-10-22 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Voyager: An End-to-End Framework for Design-Space Exploration and Generation of DNN Accelerators](https://arxiv.org/abs/2509.15205v1)** | 2025-09-18 |  |
 | **[Conformalized Tensor Completion with Riemannian Optimization](https://arxiv.org/abs/2405.00581v2)** | 2025-09-07 |  |
 | **[MambaLite-Micro: Memory-Optimized Mamba Inference on MCUs](https://arxiv.org/abs/2509.05488v1)** | 2025-09-05 | 4 pages, 1 figures |
-| **[Deep Tensor Network](https://arxiv.org/abs/2311.11091v3)** | 2025-08-31 |  |
 
