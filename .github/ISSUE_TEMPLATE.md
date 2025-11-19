@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 18, 2025
+title: Latest 15 Papers - November 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,26 +26,27 @@ labels: documentation
 ## Sparse Data Structure
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Learning Subglacial Bed Topography from Sparse Radar with Physics-Guided Residuals](https://arxiv.org/abs/2511.14473v1)** | 2025-11-18 |  |
+| **[Improving Greenland Bed Topography Mapping with Uncertainty-Aware Graph Learning on Sparse Radar Data](https://arxiv.org/abs/2509.08571v2)** | 2025-11-18 |  |
+| **[A Bit Level Weight Reordering Strategy Based on Column Similarity to Explore Weight Sparsity in RRAM-based NN Accelerator](https://arxiv.org/abs/2511.14202v1)** | 2025-11-18 | <details><summary>accep...</summary><p>accepted by ICPADS 2025 (International Conference on Parallel and Distributed Systems)</p></details> |
+| **[Transfer learning for high-dimensional Factor-augmented sparse linear model](https://arxiv.org/abs/2511.12435v2)** | 2025-11-18 | 52 pages, 2 figures |
+| **[Synthetic Geology: Structural Geology Meets Deep Learning](https://arxiv.org/abs/2506.11164v2)** | 2025-11-18 | <details><summary>10 pa...</summary><p>10 pages, 9 figures, geological simulation code at https://doi.org/10.5281/zenodo.15244035, generative AI code at https://github.com/chipnbits/flowtrain_stochastic_interpolation/releases/tag/v1.0.2</p></details> |
+| **[Higher-Order Transformers With Kronecker-Structured Attention](https://arxiv.org/abs/2412.02919v2)** | 2025-11-18 |  |
+| **[PoCGM: Poisson-Conditioned Generative Model for Sparse-View CT Reconstruction](https://arxiv.org/abs/2511.13967v1)** | 2025-11-17 | <details><summary>18th ...</summary><p>18th International Meeting on Fully 3D Image Reconstruction in Radiology and Nuclear Medicine, Shanghai, CHINA, 2025</p></details> |
+| **[Self-Supervised Compression and Artifact Correction for Streaming Underwater Imaging Sonar](https://arxiv.org/abs/2511.13922v1)** | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted to WACV 2026</p></details> |
 | **[Statistically Accurate and Robust Generative Prediction of Rock Discontinuities with A Tabular Foundation Model](https://arxiv.org/abs/2511.13339v1)** | 2025-11-17 |  |
 | **[Likelihood-guided Regularization in Attention Based Models](https://arxiv.org/abs/2511.13221v1)** | 2025-11-17 |  |
 | **[Efficient Solvers for SLOPE in R, Python, Julia, and C++](https://arxiv.org/abs/2511.02430v2)** | 2025-11-17 | 30 pages, 8 figures |
 | **[Bi-View Embedding Fusion: A Hybrid Learning Approach for Knowledge Graph's Nodes Classification Addressing Problems with Limited Data](https://arxiv.org/abs/2511.13044v1)** | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted at the 14th International Joint Conference on Knowledge Graphs (IJCKG) 2025</p></details> |
 | **[Improving the Generalisation of Learned Reconstruction Frameworks](https://arxiv.org/abs/2511.12730v1)** | 2025-11-16 | 11 pages, 8 figures |
-| **[Transfer learning for high-dimensional Factor-augmented sparse model](https://arxiv.org/abs/2511.12435v1)** | 2025-11-16 | 52 pages, 2 figures |
+| **[CellStream: Dynamical Optimal Transport Informed Embeddings for Reconstructing Cellular Trajectories from Snapshots Data](https://arxiv.org/abs/2511.13786v1)** | 2025-11-16 | <details><summary>Publi...</summary><p>Published as a conference paper at AAAI 2026 (oral)</p></details> |
 | **[Improving Graph Embeddings in Machine Learning Using Knowledge Completion with Validation in a Case Study on COVID-19 Spread](https://arxiv.org/abs/2511.12071v1)** | 2025-11-15 | <details><summary>Accep...</summary><p>Accepted at the 16th IEEE International Conference on Knowledge Graphs (ICKG) 2025</p></details> |
-| **[GUSLO: General and Unified Structured Light Optimization](https://arxiv.org/abs/2501.14659v2)** | 2025-11-15 |  |
-| **[From Events to Clarity: The Event-Guided Diffusion Framework for Dehazing](https://arxiv.org/abs/2511.11944v1)** | 2025-11-14 | <details><summary>11 pa...</summary><p>11 pages, 8 figures. Completed in April 2025</p></details> |
-| **[Sparse Methods for Vector Embeddings of TPC Data](https://arxiv.org/abs/2511.11221v1)** | 2025-11-14 | <details><summary>NeurI...</summary><p>NeurIPS Machine Learning and the Physical Sciences Workshop 2025</p></details> |
-| **[Dynamic Deep Graph Learning for Incomplete Multi-View Clustering with Masked Graph Reconstruction Loss](https://arxiv.org/abs/2511.11181v1)** | 2025-11-14 |  |
-| **[PrivDFS: Private Inference via Distributed Feature Sharing against Data Reconstruction Attacks](https://arxiv.org/abs/2508.04346v2)** | 2025-11-14 |  |
-| **[AHA! Animating Human Avatars in Diverse Scenes with Gaussian Splatting](https://arxiv.org/abs/2511.09827v1)** | 2025-11-13 |  |
-| **[Learning More by Seeing Less: Structure First Learning for Efficient, Transferable, and Human-Aligned Vision](https://arxiv.org/abs/2508.06696v2)** | 2025-11-12 |  |
-| **[Self-Supervised Implicit Attention Priors for Point Cloud Reconstruction](https://arxiv.org/abs/2511.04864v2)** | 2025-11-12 | Accepted at 3DV 2026 |
 
 ## Tensor Formats
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
 | **[MACKO: Sparse Matrix-Vector Multiplication for Low Sparsity](https://arxiv.org/abs/2511.13061v1)** | 2025-11-17 | <details><summary>8 pag...</summary><p>8 pages + 7 pages appendix, 11 figures, Code available at https://github.com/vlejd/macko_spmv</p></details> |
+| **[Guaranteed DGEMM Accuracy While Using Reduced Precision Tensor Cores Through Extensions of the Ozaki Scheme](https://arxiv.org/abs/2511.13778v1)** | 2025-11-16 |  |
 | **[MOSS: Efficient and Accurate FP8 LLM Training with Microscaling and Automatic Scaling](https://arxiv.org/abs/2511.05811v1)** | 2025-11-08 |  |
 | **[Exploring the Meta Flip Graph for Matrix Multiplication](https://arxiv.org/abs/2510.19787v1)** | 2025-10-22 |  |
 | **[The Continuous Tensor Abstraction: Where Indices are Real](https://arxiv.org/abs/2407.01742v3)** | 2025-10-22 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Elucidating the Design Space of FP4 training](https://arxiv.org/abs/2509.17791v1)** | 2025-09-22 |  |
 | **[Voyager: An End-to-End Framework for Design-Space Exploration and Generation of DNN Accelerators](https://arxiv.org/abs/2509.15205v1)** | 2025-09-18 |  |
 | **[Conformalized Tensor Completion with Riemannian Optimization](https://arxiv.org/abs/2405.00581v2)** | 2025-09-07 |  |
-| **[MambaLite-Micro: Memory-Optimized Mamba Inference on MCUs](https://arxiv.org/abs/2509.05488v1)** | 2025-09-05 | 4 pages, 1 figures |
 
