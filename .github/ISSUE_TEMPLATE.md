@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 19, 2025
+title: Latest 15 Papers - November 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## Sparse Data Structure
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BaGGLS: A Bayesian Shrinkage Framework for Interpretable Modeling of Interactions in High-Dimensional Biological Data](https://arxiv.org/abs/2511.15330v1)** | 2025-11-19 |  |
+| **[Systematic Evaluation and Guidelines for Segment Anything Model in Surgical Video Analysis](https://arxiv.org/abs/2501.00525v2)** | 2025-11-19 |  |
+| **[Skin-R1: Toward Trustworthy Clinical Reasoning for Dermatological Diagnosis](https://arxiv.org/abs/2511.14900v1)** | 2025-11-18 |  |
 | **[Learning Subglacial Bed Topography from Sparse Radar with Physics-Guided Residuals](https://arxiv.org/abs/2511.14473v1)** | 2025-11-18 |  |
 | **[Improving Greenland Bed Topography Mapping with Uncertainty-Aware Graph Learning on Sparse Radar Data](https://arxiv.org/abs/2509.08571v2)** | 2025-11-18 |  |
 | **[A Bit Level Weight Reordering Strategy Based on Column Similarity to Explore Weight Sparsity in RRAM-based NN Accelerator](https://arxiv.org/abs/2511.14202v1)** | 2025-11-18 | <details><summary>accep...</summary><p>accepted by ICPADS 2025 (International Conference on Parallel and Distributed Systems)</p></details> |
@@ -38,9 +41,6 @@ labels: documentation
 | **[Likelihood-guided Regularization in Attention Based Models](https://arxiv.org/abs/2511.13221v1)** | 2025-11-17 |  |
 | **[Efficient Solvers for SLOPE in R, Python, Julia, and C++](https://arxiv.org/abs/2511.02430v2)** | 2025-11-17 | 30 pages, 8 figures |
 | **[Bi-View Embedding Fusion: A Hybrid Learning Approach for Knowledge Graph's Nodes Classification Addressing Problems with Limited Data](https://arxiv.org/abs/2511.13044v1)** | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted at the 14th International Joint Conference on Knowledge Graphs (IJCKG) 2025</p></details> |
-| **[Improving the Generalisation of Learned Reconstruction Frameworks](https://arxiv.org/abs/2511.12730v1)** | 2025-11-16 | 11 pages, 8 figures |
-| **[CellStream: Dynamical Optimal Transport Informed Embeddings for Reconstructing Cellular Trajectories from Snapshots Data](https://arxiv.org/abs/2511.13786v1)** | 2025-11-16 | <details><summary>Publi...</summary><p>Published as a conference paper at AAAI 2026 (oral)</p></details> |
-| **[Improving Graph Embeddings in Machine Learning Using Knowledge Completion with Validation in a Case Study on COVID-19 Spread](https://arxiv.org/abs/2511.12071v1)** | 2025-11-15 | <details><summary>Accep...</summary><p>Accepted at the 16th IEEE International Conference on Knowledge Graphs (ICKG) 2025</p></details> |
 
 ## Tensor Formats
 | **Title** | **Date** | **Comment** |
