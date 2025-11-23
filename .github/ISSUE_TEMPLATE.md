@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 20, 2025
+title: Latest 15 Papers - November 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,21 +26,21 @@ labels: documentation
 ## Sparse Data Structure
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Sensor Informativeness, Identifiability, and Uncertainty in Bayesian Inverse Problems for Structural Health Monitoring](https://arxiv.org/abs/2511.16628v1)** | 2025-11-20 |  |
+| **[A Comparison Between Decision Transformers and Traditional Offline Reinforcement Learning Algorithms](https://arxiv.org/abs/2511.16475v1)** | 2025-11-20 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, published in the Proceedings of the 46th Annual conference of the South African Institute of Computer Scientists and Information Technologists (SIACSIT 2025)</p></details> |
+| **[Sparse Autoencoders are Topic Models](https://arxiv.org/abs/2511.16309v1)** | 2025-11-20 |  |
+| **[Scenario-Aware Control of Segmented Ladder Bus: Design and FPGA Implementation](https://arxiv.org/abs/2511.15987v1)** | 2025-11-20 |  |
+| **[PoE-World: Compositional World Modeling with Products of Programmatic Experts](https://arxiv.org/abs/2505.10819v4)** | 2025-11-19 |  |
+| **[Atlas Gaussian processes on restricted domains and point clouds](https://arxiv.org/abs/2511.15822v1)** | 2025-11-19 |  |
 | **[BaGGLS: A Bayesian Shrinkage Framework for Interpretable Modeling of Interactions in High-Dimensional Biological Data](https://arxiv.org/abs/2511.15330v1)** | 2025-11-19 |  |
 | **[Systematic Evaluation and Guidelines for Segment Anything Model in Surgical Video Analysis](https://arxiv.org/abs/2501.00525v2)** | 2025-11-19 |  |
 | **[Skin-R1: Toward Trustworthy Clinical Reasoning for Dermatological Diagnosis](https://arxiv.org/abs/2511.14900v1)** | 2025-11-18 |  |
+| **[Connecting the Dots: A Machine Learning Ready Dataset for Ionospheric Forecasting Models](https://arxiv.org/abs/2511.15743v1)** | 2025-11-18 | <details><summary>8 pag...</summary><p>8 pages, 2 figures, 2 tables. Accepted as a poster presentation in the Machine Learning for the Physical Sciences workshop at NeurIPS 2025</p></details> |
 | **[Learning Subglacial Bed Topography from Sparse Radar with Physics-Guided Residuals](https://arxiv.org/abs/2511.14473v1)** | 2025-11-18 |  |
 | **[Improving Greenland Bed Topography Mapping with Uncertainty-Aware Graph Learning on Sparse Radar Data](https://arxiv.org/abs/2509.08571v2)** | 2025-11-18 |  |
 | **[A Bit Level Weight Reordering Strategy Based on Column Similarity to Explore Weight Sparsity in RRAM-based NN Accelerator](https://arxiv.org/abs/2511.14202v1)** | 2025-11-18 | <details><summary>accep...</summary><p>accepted by ICPADS 2025 (International Conference on Parallel and Distributed Systems)</p></details> |
 | **[Transfer learning for high-dimensional Factor-augmented sparse linear model](https://arxiv.org/abs/2511.12435v2)** | 2025-11-18 | 52 pages, 2 figures |
 | **[Synthetic Geology: Structural Geology Meets Deep Learning](https://arxiv.org/abs/2506.11164v2)** | 2025-11-18 | <details><summary>10 pa...</summary><p>10 pages, 9 figures, geological simulation code at https://doi.org/10.5281/zenodo.15244035, generative AI code at https://github.com/chipnbits/flowtrain_stochastic_interpolation/releases/tag/v1.0.2</p></details> |
-| **[Higher-Order Transformers With Kronecker-Structured Attention](https://arxiv.org/abs/2412.02919v2)** | 2025-11-18 |  |
-| **[PoCGM: Poisson-Conditioned Generative Model for Sparse-View CT Reconstruction](https://arxiv.org/abs/2511.13967v1)** | 2025-11-17 | <details><summary>18th ...</summary><p>18th International Meeting on Fully 3D Image Reconstruction in Radiology and Nuclear Medicine, Shanghai, CHINA, 2025</p></details> |
-| **[Self-Supervised Compression and Artifact Correction for Streaming Underwater Imaging Sonar](https://arxiv.org/abs/2511.13922v1)** | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted to WACV 2026</p></details> |
-| **[Statistically Accurate and Robust Generative Prediction of Rock Discontinuities with A Tabular Foundation Model](https://arxiv.org/abs/2511.13339v1)** | 2025-11-17 |  |
-| **[Likelihood-guided Regularization in Attention Based Models](https://arxiv.org/abs/2511.13221v1)** | 2025-11-17 |  |
-| **[Efficient Solvers for SLOPE in R, Python, Julia, and C++](https://arxiv.org/abs/2511.02430v2)** | 2025-11-17 | 30 pages, 8 figures |
-| **[Bi-View Embedding Fusion: A Hybrid Learning Approach for Knowledge Graph's Nodes Classification Addressing Problems with Limited Data](https://arxiv.org/abs/2511.13044v1)** | 2025-11-17 | <details><summary>Accep...</summary><p>Accepted at the 14th International Joint Conference on Knowledge Graphs (IJCKG) 2025</p></details> |
 
 ## Tensor Formats
 | **Title** | **Date** | **Comment** |
