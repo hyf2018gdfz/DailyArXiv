@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 23, 2025
+title: Latest 15 Papers - November 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,7 +26,7 @@ labels: documentation
 ## Sparse Data Structure
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Sensor Informativeness, Identifiability, and Uncertainty in Bayesian Inverse Problems for Structural Health Monitoring](https://arxiv.org/abs/2511.16628v1)** | 2025-11-20 |  |
+| **[Sensor Informativeness, Identifiability, and Uncertainty in Bayesian Inverse Problems for Structural Health Monitoring](https://arxiv.org/abs/2511.16628v2)** | 2025-11-21 |  |
 | **[A Comparison Between Decision Transformers and Traditional Offline Reinforcement Learning Algorithms](https://arxiv.org/abs/2511.16475v1)** | 2025-11-20 | <details><summary>15 pa...</summary><p>15 pages, 4 figures, published in the Proceedings of the 46th Annual conference of the South African Institute of Computer Scientists and Information Technologists (SIACSIT 2025)</p></details> |
 | **[Sparse Autoencoders are Topic Models](https://arxiv.org/abs/2511.16309v1)** | 2025-11-20 |  |
 | **[Scenario-Aware Control of Segmented Ladder Bus: Design and FPGA Implementation](https://arxiv.org/abs/2511.15987v1)** | 2025-11-20 |  |
