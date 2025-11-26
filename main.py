@@ -22,7 +22,7 @@ with open("README.md", "r") as f:
     # if last_update_date == current_date:
         # sys.exit("Already updated today!")
 
-keywords = ["MLIR", "Sparse Data Structure", "Tensor Formats"] # TODO add more keywords
+keywords = ["MLIR", "Sparse Data Structure", "MLIR Autotuning"] # TODO add more keywords
 
 max_result = 100 # maximum query results from arXiv API for each keyword
 issues_result = 15 # maximum papers to be included in the issue
