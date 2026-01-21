@@ -1,63 +1,53 @@
 ---
-title: Latest 15 Papers - January 21, 2026
+title: Latest 15 Papers - January 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
 
-## Time Series
+## MLIR
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Wetland mapping from sparse annotations with satellite image time series and temporal-aware segment anything model](https://arxiv.org/abs/2601.11400v1)** | 2026-01-16 |  |
-| **[The Mini Wheelbot Dataset: High-Fidelity Data for Robot Learning](https://arxiv.org/abs/2601.11394v1)** | 2026-01-16 |  |
-| **[FEATHer: Fourier-Efficient Adaptive Temporal Hierarchy Forecaster for Time-Series Forecasting](https://arxiv.org/abs/2601.11350v1)** | 2026-01-16 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</p></details> |
-| **[Likelihood-Based Ergodicity Transformations in Time Series Analysis](https://arxiv.org/abs/2601.11237v1)** | 2026-01-16 | <details><summary>19 pa...</summary><p>19 pages, 7 figures, 5 tables</p></details> |
-| **[Estimation of time series by Maximum Mean Discrepancy](https://arxiv.org/abs/2601.11233v1)** | 2026-01-16 |  |
-| **[Explaining Time Series Classifiers with PHAR: Rule Extraction and Fusion from Post-hoc Attributions](https://arxiv.org/abs/2508.01687v4)** | 2026-01-16 |  |
-| **[TimeMar: Multi-Scale Autoregressive Modeling for Unconditional Time Series Generation](https://arxiv.org/abs/2601.11184v1)** | 2026-01-16 |  |
-| **[Split-and-Conquer: Distributed Factor Modeling for High-Dimensional Matrix-Variate Time Series](https://arxiv.org/abs/2601.11091v1)** | 2026-01-16 |  |
-| **[MiCA: A Mobility-Informed Causal Adapter for Lightweight Epidemic Forecasting](https://arxiv.org/abs/2601.11089v1)** | 2026-01-16 |  |
-| **[Soft Bayesian Context Tree Models for Real-Valued Time Series](https://arxiv.org/abs/2601.11079v1)** | 2026-01-16 |  |
-| **[Epidemic Forecasting with a Hybrid Deep Learning Method Using CNN-LSTM With WOA-GWO Parameter Optimization: Global COVID-19 Case Study](https://arxiv.org/abs/2503.12813v3)** | 2026-01-16 |  |
-| **[Local Intrinsic Dimensionality of Ground Motion Data for Early Detection of Complex Catastrophic Slope Failure](https://arxiv.org/abs/2601.03569v2)** | 2026-01-16 | 21 pages, 7 figures |
-| **[Stock Market Price Prediction using Neural Prophet with Deep Neural Network](https://arxiv.org/abs/2601.05202v3)** | 2026-01-16 | <details><summary>Accep...</summary><p>Accepted at 2nd International Conference on Software, Systems and Information Technology (SSITCON) 2025</p></details> |
-| **[KRED: Korea Research Economic Database for Macroeconomic Research](https://arxiv.org/abs/2509.16115v2)** | 2026-01-16 |  |
-| **[On the use of cross-fitting in causal machine learning with correlated units](https://arxiv.org/abs/2601.10899v1)** | 2026-01-15 | 15 pages, 8 figures |
+| **[MLIR-Forge: A Modular Framework for Language Smiths](https://arxiv.org/abs/2601.09583v1)** | 2026-01-14 |  |
+| **[MLIR-Smith: A Novel Random Program Generator for Evaluating Compiler Pipelines](https://arxiv.org/abs/2601.02218v1)** | 2026-01-05 |  |
+| **[Integrating Quantum Software Tools with(in) MLIR](https://arxiv.org/abs/2601.02062v1)** | 2026-01-05 | 13 pages, 7 figures |
+| **[A Reinforcement Learning Environment for Automatic Code Optimization in the MLIR Compiler](https://arxiv.org/abs/2409.11068v2)** | 2025-12-20 |  |
+| **[Nice to Meet You: Synthesizing Practical MLIR Abstract Transformers](https://arxiv.org/abs/2512.06442v1)** | 2025-12-06 |  |
+| **[Aquas: Enhancing Domain Specialization through Holistic Hardware-Software Co-Optimization based on MLIR](https://arxiv.org/abs/2511.22267v1)** | 2025-11-27 |  |
+| **[Using MLIR Transform to Design Sliced Convolution Algorithm](https://arxiv.org/abs/2511.18222v1)** | 2025-11-22 |  |
+| **[An MLIR pipeline for offloading Fortran to FPGAs via OpenMP](https://arxiv.org/abs/2511.08713v1)** | 2025-11-11 | <details><summary>Autho...</summary><p>Author accepted version of paper published in SC25 LLVM workshop</p></details> |
+| **[From Loop Nests to Silicon: Mapping AI Workloads onto AMD NPUs with MLIR-AIR](https://arxiv.org/abs/2510.14871v1)** | 2025-10-16 |  |
+| **[Interleaved Learning and Exploration: A Self-Adaptive Fuzz Testing Framework for MLIR](https://arxiv.org/abs/2510.07815v1)** | 2025-10-09 |  |
+| **[Mojo: MLIR-Based Performance-Portable HPC Science Kernels on GPUs for the Python Ecosystem](https://arxiv.org/abs/2509.21039v1)** | 2025-09-25 | <details><summary>Accep...</summary><p>Accepted at the IEEE/ACM SC25 Conference WACCPD Workshop. The International Conference for High Performance Computing, Networking, Storage, and Analysis, St. Louis, MO, Nov 16-21, 2025. 15 pages, 7 figures. WFG and TM contributed equally</p></details> |
+| **[WAMI: Compilation to WebAssembly through MLIR without Losing Abstraction](https://arxiv.org/abs/2506.16048v1)** | 2025-06-19 |  |
+| **[DESIL: Detecting Silent Bugs in MLIR Compiler Infrastructure](https://arxiv.org/abs/2504.01379v1)** | 2025-04-02 |  |
+| **[Building Bridges: Julia as an MLIR Frontend](https://arxiv.org/abs/2503.04771v1)** | 2025-02-14 | <details><summary>This ...</summary><p>This is the extended abstract of a master's thesis, hosted at https://lib.ugent.be/en/catalog/rug01:003212846?i=0 \nSupervised by: Prof. Bjorn De Sutter with counselling from: Dr. Tim Besard and Thomas Faingnaert</p></details> |
+| **[Fully integrating the Flang Fortran compiler with standard MLIR](https://arxiv.org/abs/2409.18824v1)** | 2024-09-27 | <details><summary>Autho...</summary><p>Author accepted version, to appear in proceedings of the tenth annual workshop on the LLVM compiler infrastructure in HPC</p></details> |
 
-## Trajectory
+## Progressive Lowering
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Probabilistic Approach to Trajectory-Based Optimal Experimental Design](https://arxiv.org/abs/2601.11473v1)** | 2026-01-16 | <details><summary>42 Fi...</summary><p>42 Figures, this version includes supplementary material as appendices</p></details> |
-| **[iReasoner: Trajectory-Aware Intrinsic Reasoning Supervision for Self-Evolving Large Multimodal Models](https://arxiv.org/abs/2601.05877v2)** | 2026-01-16 |  |
-| **[DeepUrban: Interaction-Aware Trajectory Prediction and Planning for Automated Driving by Aerial Imagery](https://arxiv.org/abs/2601.10554v1)** | 2026-01-15 |  |
-| **[Modeling mental health trajectories during the COVID-19 pandemic using UK-wide data in the presence of sociodemographic variables](https://arxiv.org/abs/2601.10445v1)** | 2026-01-15 | 5 figures |
-| **[UrbanNav: Learning Language-Guided Urban Navigation from Web-Scale Human Trajectories](https://arxiv.org/abs/2512.09607v2)** | 2026-01-15 | <details><summary>9 pag...</summary><p>9 pages, 5 figures, accepted to AAAI 2026. Project page:https://github.com/CASIA-IVA-Lab/UrbanNav</p></details> |
-| **[Unlocking Implicit Experience: Synthesizing Tool-Use Trajectories from Text](https://arxiv.org/abs/2601.10355v1)** | 2026-01-15 |  |
-| **[Training-Trajectory-Aware Token Selection](https://arxiv.org/abs/2601.10348v1)** | 2026-01-15 |  |
-| **[Physically Plausible Multi-System Trajectory Generation and Symmetry Discovery](https://arxiv.org/abs/2509.23003v2)** | 2026-01-14 |  |
-| **[ReflexDiffusion: Reflection-Enhanced Trajectory Planning for High-lateral-acceleration Scenarios in Autonomous Driving](https://arxiv.org/abs/2601.09377v1)** | 2026-01-14 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026</p></details> |
-| **[STaR: Sensitive Trajectory Regulation for Unlearning in Large Reasoning Models](https://arxiv.org/abs/2601.09281v1)** | 2026-01-14 |  |
-| **[Online Trajectory Optimization for Arbitrary-Shaped Mobile Robots via Polynomial Separating Hypersurfaces](https://arxiv.org/abs/2601.09231v1)** | 2026-01-14 |  |
-| **[DiffMM: Efficient Method for Accurate Noisy and Sparse Trajectory Map Matching via One Step Diffusion](https://arxiv.org/abs/2601.08482v1)** | 2026-01-13 | AAAI-26 |
-| **[CASHEW: Stabilizing Multimodal Reasoning via Iterative Trajectory Aggregation](https://arxiv.org/abs/2601.08010v1)** | 2026-01-12 |  |
-| **[d3LLM: Ultra-Fast Diffusion LLM using Pseudo-Trajectory Distillation](https://arxiv.org/abs/2601.07568v1)** | 2026-01-12 |  |
-| **[BiTrajDiff: Bidirectional Trajectory Generation with Diffusion Models for Offline Reinforcement Learning](https://arxiv.org/abs/2506.05762v4)** | 2026-01-12 |  |
+| **[Code Contribution and Credit in Science](https://arxiv.org/abs/2510.16242v2)** | 2026-01-06 | <details><summary>Revis...</summary><p>Revisions after peer-review. This is the "Accepted" version of the paper!</p></details> |
+| **[Boundless Byte Pair Encoding: Breaking the Pre-tokenization Barrier](https://arxiv.org/abs/2504.00178v2)** | 2025-10-02 | <details><summary>Accep...</summary><p>Accepted to COLM 2025</p></details> |
+| **[A-MemGuard: A Proactive Defense Framework for LLM-Based Agent Memory](https://arxiv.org/abs/2510.02373v1)** | 2025-09-29 |  |
+| **[InvDesFlow-AL: Active Learning-based Workflow for Inverse Design of Functional Materials](https://arxiv.org/abs/2505.09203v1)** | 2025-05-14 | 29 pages, 11 figures |
+| **[Recursive lattice reduction -- A framework for finding short lattice vectors](https://arxiv.org/abs/2311.15064v3)** | 2025-04-20 | <details><summary>This ...</summary><p>This version is a minor edit of the previous version</p></details> |
+| **[ML-Triton, A Multi-Level Compilation and Language Extension to Triton GPU Programming](https://arxiv.org/abs/2503.14985v2)** | 2025-03-26 |  |
+| **[MIRAGE: Multimodal Immersive Reasoning and Guided Exploration for Red-Team Jailbreak Attacks](https://arxiv.org/abs/2503.19134v1)** | 2025-03-24 |  |
+| **[A Multi-level Compiler Backend for Accelerated Micro-kernels Targeting RISC-V ISA Extensions](https://arxiv.org/abs/2502.04063v1)** | 2025-02-06 |  |
+| **[Multiple Global Peaks Big Bang-Big Crunch Algorithm for Multimodal Optimization](https://arxiv.org/abs/2410.18102v2)** | 2024-11-08 | 16 pages |
+| **[Single Parent Family: A Spectrum of Family Members from a Single Pre-Trained Foundation Model](https://arxiv.org/abs/2406.19995v1)** | 2024-06-28 |  |
+| **[CINM (Cinnamon): A Compilation Infrastructure for Heterogeneous Compute In-Memory and Compute Near-Memory Paradigms](https://arxiv.org/abs/2301.07486v4)** | 2024-05-24 | 16 pages, 12 figures |
+| **[C4CAM: A Compiler for CAM-based In-memory Accelerators](https://arxiv.org/abs/2309.06418v1)** | 2023-09-12 | 10 pages, 9 figures |
+| **[A Data-Centric Optimization Framework for Machine Learning](https://arxiv.org/abs/2110.10802v3)** | 2022-08-29 | <details><summary>13 pa...</summary><p>13 pages, 12 figures, published at Proceedings of the ACM International Conference on Supercomputing (ICS'22)</p></details> |
+| **[Composable and Modular Code Generation in MLIR: A Structured and Retargetable Approach to Tensor Compiler Construction](https://arxiv.org/abs/2202.03293v1)** | 2022-02-07 |  |
+| **[Phism: Polyhedral High-Level Synthesis in MLIR](https://arxiv.org/abs/2103.15103v1)** | 2021-03-28 | <details><summary>Will ...</summary><p>Will be presented at LATTE'21</p></details> |
 
-## Graph Neural Networks
+## Transform Dialect
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Predictive Modeling of Power Outages during Extreme Events: Integrating Weather and Socio-Economic Factors](https://arxiv.org/abs/2512.22699v2)** | 2026-01-16 | <details><summary>This ...</summary><p>This is a preprint of a manuscript currently under review at Electric Power Systems Research. The content may be subject to change following peer review</p></details> |
-| **[GenDA: Generative Data Assimilation on Complex Urban Areas via Classifier-Free Diffusion Guidance](https://arxiv.org/abs/2601.11440v1)** | 2026-01-16 |  |
-| **[New Adaptive Mechanism for Large Neighborhood Search using Dual Actor-Critic](https://arxiv.org/abs/2601.11414v1)** | 2026-01-16 |  |
-| **[Factored Value Functions for Graph-Based Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2601.11401v1)** | 2026-01-16 |  |
-| **[Latent Dynamics Graph Convolutional Networks for model order reduction of parameterized time-dependent PDEs](https://arxiv.org/abs/2601.11259v1)** | 2026-01-16 |  |
-| **[Theoretically and Practically Efficient Resistance Distance Computation on Large Graphs](https://arxiv.org/abs/2601.11159v1)** | 2026-01-16 |  |
-| **[MiCA: A Mobility-Informed Causal Adapter for Lightweight Epidemic Forecasting](https://arxiv.org/abs/2601.11089v1)** | 2026-01-16 |  |
-| **[Bridging Cognitive Neuroscience and Graph Intelligence: Hippocampus-Inspired Multi-View Hypergraph Learning for Web Finance Fraud](https://arxiv.org/abs/2601.11073v1)** | 2026-01-16 |  |
-| **[KOCOBrain: Kuramoto-Guided Graph Network for Uncovering Structure-Function Coupling in Adolescent Prenatal Drug Exposure](https://arxiv.org/abs/2601.11018v1)** | 2026-01-16 | <details><summary>Prepr...</summary><p>Preprint version of the paper accepted to the IEEE International Symposium on Biomedical Imaging (ISBI 2026). This is the author's accepted manuscript. The final published version will appear in IEEE Xplore</p></details> |
-| **[A Low-Complexity Architecture for Multi-access Coded Caching Systems with Arbitrary User-cache Access Topology](https://arxiv.org/abs/2601.10175v2)** | 2026-01-16 |  |
-| **[U-PINet: Physics-Informed Hierarchical Learning for Radar Cross Section Prediction via 3D Electromagnetic Scattering Reconstruction](https://arxiv.org/abs/2508.03774v3)** | 2026-01-16 | <details><summary>Submi...</summary><p>Submitted to an IEEE Transactions Journal</p></details> |
-| **[Aggregating Direct and Indirect Neighbors through Graph Linear Transformations](https://arxiv.org/abs/2511.16871v2)** | 2026-01-15 | 14 pages, 7 Figures |
-| **[Superposition in Graph Neural Networks](https://arxiv.org/abs/2509.00928v2)** | 2026-01-15 |  |
-| **[Knowledge Homophily in Large Language Models](https://arxiv.org/abs/2509.23773v2)** | 2026-01-15 |  |
-| **[PLGC: Pseudo-Labeled Graph Condensation](https://arxiv.org/abs/2601.10358v1)** | 2026-01-15 |  |
+| **[Using MLIR Transform to Design Sliced Convolution Algorithm](https://arxiv.org/abs/2511.18222v1)** | 2025-11-22 |  |
+| **[Dialect Normalization using Large Language Models and Morphological Rules](https://arxiv.org/abs/2506.08907v1)** | 2025-06-10 | <details><summary>19 pa...</summary><p>19 pages, 18 figures, to be published in the Findings of the Association for Computational Linguistics 2025</p></details> |
+| **[The MLIR Transform Dialect. Your compiler is more powerful than you think](https://arxiv.org/abs/2409.03864v2)** | 2024-09-09 |  |
+| **[Transform Dialect Tutorial](https://arxiv.org/abs/2404.19350v1)** | 2024-04-30 |  |
+| **[Automatic Standardization of Arabic Dialects for Machine Translation](https://arxiv.org/abs/2301.03447v1)** | 2023-01-09 |  |
 
