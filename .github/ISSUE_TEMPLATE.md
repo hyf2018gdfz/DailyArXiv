@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 19, 2026
+title: Latest 15 Papers - March 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## MLIR
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Enabling RISC-V Vector Code Generation in MLIR through Custom xDSL Lowerings](https://arxiv.org/abs/2603.17800v1)** | 2026-03-18 | <details><summary>12 pa...</summary><p>12 pages, 11 Figures, 1 table</p></details> |
 | **[Hexagon-MLIR: An AI Compilation Stack For Qualcomm's Neural Processing Units (NPUs)](https://arxiv.org/abs/2602.19762v1)** | 2026-02-23 |  |
 | **[Analyzing Latency Hiding and Parallelism in an MLIR-based AI Kernel Compiler](https://arxiv.org/abs/2602.20204v1)** | 2026-02-22 | <details><summary>Accep...</summary><p>Accepted at MLBench workshop as part of ASPLOS'26</p></details> |
 | **[MING: An Automated CNN-to-Edge MLIR HLS framework](https://arxiv.org/abs/2602.11966v1)** | 2026-02-12 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[An MLIR pipeline for offloading Fortran to FPGAs via OpenMP](https://arxiv.org/abs/2511.08713v1)** | 2025-11-11 | <details><summary>Autho...</summary><p>Author accepted version of paper published in SC25 LLVM workshop</p></details> |
 | **[From Loop Nests to Silicon: Mapping AI Workloads onto AMD NPUs with MLIR-AIR](https://arxiv.org/abs/2510.14871v1)** | 2025-10-16 |  |
 | **[Interleaved Learning and Exploration: A Self-Adaptive Fuzz Testing Framework for MLIR](https://arxiv.org/abs/2510.07815v1)** | 2025-10-09 |  |
-| **[Mojo: MLIR-Based Performance-Portable HPC Science Kernels on GPUs for the Python Ecosystem](https://arxiv.org/abs/2509.21039v1)** | 2025-09-25 | <details><summary>Accep...</summary><p>Accepted at the IEEE/ACM SC25 Conference WACCPD Workshop. The International Conference for High Performance Computing, Networking, Storage, and Analysis, St. Louis, MO, Nov 16-21, 2025. 15 pages, 7 figures. WFG and TM contributed equally</p></details> |
 
 ## Progressive Lowering
 | **Title** | **Date** | **Comment** |
