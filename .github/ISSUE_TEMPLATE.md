@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 23, 2026
+title: Latest 15 Papers - March 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## MLIR
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Is It a Good Idea to Build an HLS Tool on Top of MLIR? Experience from Building the Dynamatic HLS Compiler](https://arxiv.org/abs/2603.19856v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted at the Workshop on Languages, Tools, and Techniques for Accelerator Design (LATTE '26)</p></details> |
 | **[Enabling RISC-V Vector Code Generation in MLIR through Custom xDSL Lowerings](https://arxiv.org/abs/2603.17800v1)** | 2026-03-18 | <details><summary>12 pa...</summary><p>12 pages, 11 Figures, 1 table</p></details> |
 | **[Hexagon-MLIR: An AI Compilation Stack For Qualcomm's Neural Processing Units (NPUs)](https://arxiv.org/abs/2602.19762v1)** | 2026-02-23 |  |
 | **[Analyzing Latency Hiding and Parallelism in an MLIR-based AI Kernel Compiler](https://arxiv.org/abs/2602.20204v1)** | 2026-02-22 | <details><summary>Accep...</summary><p>Accepted at MLBench workshop as part of ASPLOS'26</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Using MLIR Transform to Design Sliced Convolution Algorithm](https://arxiv.org/abs/2511.18222v1)** | 2025-11-22 |  |
 | **[An MLIR pipeline for offloading Fortran to FPGAs via OpenMP](https://arxiv.org/abs/2511.08713v1)** | 2025-11-11 | <details><summary>Autho...</summary><p>Author accepted version of paper published in SC25 LLVM workshop</p></details> |
 | **[From Loop Nests to Silicon: Mapping AI Workloads onto AMD NPUs with MLIR-AIR](https://arxiv.org/abs/2510.14871v1)** | 2025-10-16 |  |
-| **[Interleaved Learning and Exploration: A Self-Adaptive Fuzz Testing Framework for MLIR](https://arxiv.org/abs/2510.07815v1)** | 2025-10-09 |  |
 
 ## Progressive Lowering
 | **Title** | **Date** | **Comment** |
@@ -42,12 +42,22 @@ labels: documentation
 | **[A Data-Centric Optimization Framework for Machine Learning](https://arxiv.org/abs/2110.10802v3)** | 2022-08-29 | <details><summary>13 pa...</summary><p>13 pages, 12 figures, published at Proceedings of the ACM International Conference on Supercomputing (ICS'22)</p></details> |
 | **[Composable and Modular Code Generation in MLIR: A Structured and Retargetable Approach to Tensor Compiler Construction](https://arxiv.org/abs/2202.03293v1)** | 2022-02-07 |  |
 
-## Transform Dialect
+## Triton
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Using MLIR Transform to Design Sliced Convolution Algorithm](https://arxiv.org/abs/2511.18222v1)** | 2025-11-22 |  |
-| **[Dialect Normalization using Large Language Models and Morphological Rules](https://arxiv.org/abs/2506.08907v1)** | 2025-06-10 | <details><summary>19 pa...</summary><p>19 pages, 18 figures, to be published in the Findings of the Association for Computational Linguistics 2025</p></details> |
-| **[The MLIR Transform Dialect. Your compiler is more powerful than you think](https://arxiv.org/abs/2409.03864v2)** | 2024-09-09 |  |
-| **[Transform Dialect Tutorial](https://arxiv.org/abs/2404.19350v1)** | 2024-04-30 |  |
-| **[Automatic Standardization of Arabic Dialects for Machine Translation](https://arxiv.org/abs/2301.03447v1)** | 2023-01-09 |  |
+| **[TritonRL: Training LLMs to Think and Code Triton Without Cheating](https://arxiv.org/abs/2510.17891v2)** | 2026-02-09 |  |
+| **[Scalable and Secure AI Inference in Healthcare: A Comparative Benchmarking of FastAPI and Triton Inference Server on Kubernetes](https://arxiv.org/abs/2602.00053v1)** | 2026-01-19 | <details><summary>2 pag...</summary><p>2 pages, 2 figures, 1 table</p></details> |
+| **[Green MLOps: Closed-Loop, Energy-Aware Inference with NVIDIA Triton, FastAPI, and Bio-Inspired Thresholding](https://arxiv.org/abs/2601.04250v1)** | 2026-01-06 | <details><summary>6 pag...</summary><p>6 pages, 4 figures. Code available at:https://github.com/InnoDeep-repos/Green_MLOps</p></details> |
+| **[TritonForge: Profiling-Guided Framework for Automated Triton Kernel Optimization](https://arxiv.org/abs/2512.09196v2)** | 2025-12-14 |  |
+| **[tritonBLAS: Triton-based Analytical Approach for GEMM Kernel Parameter Selection](https://arxiv.org/abs/2512.04226v1)** | 2025-12-03 |  |
+| **[Iris: First-Class Multi-GPU Programming Experience in Triton](https://arxiv.org/abs/2511.12500v1)** | 2025-11-16 |  |
+| **[The Anatomy of a Triton Attention Kernel](https://arxiv.org/abs/2511.11581v1)** | 2025-10-07 |  |
+| **[Geak: Introducing Triton Kernel AI Agent & Evaluation Benchmarks](https://arxiv.org/abs/2507.23194v1)** | 2025-07-31 |  |
+| **[NineToothed: A Triton-Based High-Level Domain-Specific Language for Machine Learning](https://arxiv.org/abs/2507.11978v1)** | 2025-07-16 |  |
+| **[AutoTriton: Automatic Triton Programming with Reinforcement Learning in LLMs](https://arxiv.org/abs/2507.05687v1)** | 2025-07-08 |  |
+| **[Fast and Simplex: 2-Simplicial Attention in Triton](https://arxiv.org/abs/2507.02754v1)** | 2025-07-03 | <details><summary>10 pa...</summary><p>10 pages, with appendix 25 pages</p></details> |
+| **[Triton-distributed: Programming Overlapping Kernels on Distributed AI Systems with the Triton Compiler](https://arxiv.org/abs/2504.19442v3)** | 2025-06-05 |  |
+| **[ML-Triton, A Multi-Level Compilation and Language Extension to Triton GPU Programming](https://arxiv.org/abs/2503.14985v2)** | 2025-03-26 |  |
+| **[TritonBench: Benchmarking Large Language Model Capabilities for Generating Triton Operators](https://arxiv.org/abs/2502.14752v1)** | 2025-02-20 |  |
+| **[Liger Kernel: Efficient Triton Kernels for LLM Training](https://arxiv.org/abs/2410.10989v3)** | 2025-01-24 | 17 pages, 12 figures |
 
