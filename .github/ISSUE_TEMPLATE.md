@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 24, 2026
+title: Latest 15 Papers - March 25, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Triton
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DRTriton: Large-Scale Synthetic Data Reinforcement Learning for Triton Kernel Generation](https://arxiv.org/abs/2603.21465v1)** | 2026-03-23 |  |
 | **[TritonRL: Training LLMs to Think and Code Triton Without Cheating](https://arxiv.org/abs/2510.17891v2)** | 2026-02-09 |  |
 | **[Scalable and Secure AI Inference in Healthcare: A Comparative Benchmarking of FastAPI and Triton Inference Server on Kubernetes](https://arxiv.org/abs/2602.00053v1)** | 2026-01-19 | <details><summary>2 pag...</summary><p>2 pages, 2 figures, 1 table</p></details> |
 | **[Green MLOps: Closed-Loop, Energy-Aware Inference with NVIDIA Triton, FastAPI, and Bio-Inspired Thresholding](https://arxiv.org/abs/2601.04250v1)** | 2026-01-06 | <details><summary>6 pag...</summary><p>6 pages, 4 figures. Code available at:https://github.com/InnoDeep-repos/Green_MLOps</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Triton-distributed: Programming Overlapping Kernels on Distributed AI Systems with the Triton Compiler](https://arxiv.org/abs/2504.19442v3)** | 2025-06-05 |  |
 | **[ML-Triton, A Multi-Level Compilation and Language Extension to Triton GPU Programming](https://arxiv.org/abs/2503.14985v2)** | 2025-03-26 |  |
 | **[TritonBench: Benchmarking Large Language Model Capabilities for Generating Triton Operators](https://arxiv.org/abs/2502.14752v1)** | 2025-02-20 |  |
-| **[Liger Kernel: Efficient Triton Kernels for LLM Training](https://arxiv.org/abs/2410.10989v3)** | 2025-01-24 | 17 pages, 12 figures |
 
