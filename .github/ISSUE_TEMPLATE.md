@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 23, 2026
+title: Latest 15 Papers - April 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## MLIR
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Going MLIR-native: Demonstrating a Future for DSL compilers on a NumPy-like Example](https://arxiv.org/abs/2604.19906v1)** | 2026-04-21 | 17 pages, 5 figures |
 | **[Aquas: Enhancing Domain Specialization through Holistic Hardware-Software Co-Optimization based on MLIR](https://arxiv.org/abs/2511.22267v2)** | 2026-04-18 |  |
 | **[EquivFusion: Unifying Hardware Equivalence Checking from Algorithms to Netlists via MLIR](https://arxiv.org/abs/2604.16571v1)** | 2026-04-17 | <details><summary>Accep...</summary><p>Accepted to FSE 2026 (Tool Demonstration Track)</p></details> |
 | **[Is It a Good Idea to Build an HLS Tool on Top of MLIR? Experience from Building the Dynamatic HLS Compiler](https://arxiv.org/abs/2603.19856v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted at the Workshop on Languages, Tools, and Techniques for Accelerator Design (LATTE '26)</p></details> |
@@ -21,7 +22,6 @@ labels: documentation
 | **[A Reinforcement Learning Environment for Automatic Code Optimization in the MLIR Compiler](https://arxiv.org/abs/2409.11068v2)** | 2025-12-20 |  |
 | **[Nice to Meet You: Synthesizing Practical MLIR Abstract Transformers](https://arxiv.org/abs/2512.06442v1)** | 2025-12-06 |  |
 | **[Using MLIR Transform to Design Sliced Convolution Algorithm](https://arxiv.org/abs/2511.18222v1)** | 2025-11-22 |  |
-| **[An MLIR pipeline for offloading Fortran to FPGAs via OpenMP](https://arxiv.org/abs/2511.08713v1)** | 2025-11-11 | <details><summary>Autho...</summary><p>Author accepted version of paper published in SC25 LLVM workshop</p></details> |
 
 ## Progressive Lowering
 | **Title** | **Date** | **Comment** |
