@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 28, 2026
+title: Latest 15 Papers - April 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## MLIR
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Going MLIR-native: Demonstrating a Future for DSL compilers on a NumPy-like Example](https://arxiv.org/abs/2604.19906v1)** | 2026-04-21 | 17 pages, 5 figures |
+| **[Demonstrating a Future for MLIR-native DSL Compilers on a NumPy-like Example](https://arxiv.org/abs/2604.19906v2)** | 2026-04-27 | 17 pages, 5 figures |
 | **[Aquas: Enhancing Domain Specialization through Holistic Hardware-Software Co-Optimization based on MLIR](https://arxiv.org/abs/2511.22267v2)** | 2026-04-18 |  |
 | **[EquivFusion: Unifying Hardware Equivalence Checking from Algorithms to Netlists via MLIR](https://arxiv.org/abs/2604.16571v1)** | 2026-04-17 | <details><summary>Accep...</summary><p>Accepted to FSE 2026 (Tool Demonstration Track)</p></details> |
 | **[Is It a Good Idea to Build an HLS Tool on Top of MLIR? Experience from Building the Dynamatic HLS Compiler](https://arxiv.org/abs/2603.19856v1)** | 2026-03-20 | <details><summary>Accep...</summary><p>Accepted at the Workshop on Languages, Tools, and Techniques for Accelerator Design (LATTE '26)</p></details> |
