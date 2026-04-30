@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 29, 2026
+title: Latest 15 Papers - May 01, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Progressive Lowering
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SAND: Spatially Adaptive Network Depth for Fast Sampling of Neural Implicit Surfaces](https://arxiv.org/abs/2604.25936v1)** | 2026-04-15 |  |
 | **[Agentic Code Optimization via Compiler-LLM Cooperation](https://arxiv.org/abs/2604.04238v1)** | 2026-04-05 |  |
 | **[Efficient Road Renovation Scheduling under Uncertainty using Lower Bound Pruning](https://arxiv.org/abs/2602.15554v1)** | 2026-02-17 | <details><summary>24 pa...</summary><p>24 pages, 14 figures, submitted to Computer-Aided Civil and Infrastructure Engineering</p></details> |
 | **[Code Contribution and Credit in Science](https://arxiv.org/abs/2510.16242v2)** | 2026-01-06 | <details><summary>Revis...</summary><p>Revisions after peer-review. This is the "Accepted" version of the paper!</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Single Parent Family: A Spectrum of Family Members from a Single Pre-Trained Foundation Model](https://arxiv.org/abs/2406.19995v1)** | 2024-06-28 |  |
 | **[CINM (Cinnamon): A Compilation Infrastructure for Heterogeneous Compute In-Memory and Compute Near-Memory Paradigms](https://arxiv.org/abs/2301.07486v4)** | 2024-05-24 | 16 pages, 12 figures |
 | **[C4CAM: A Compiler for CAM-based In-memory Accelerators](https://arxiv.org/abs/2309.06418v1)** | 2023-09-12 | 10 pages, 9 figures |
-| **[A Data-Centric Optimization Framework for Machine Learning](https://arxiv.org/abs/2110.10802v3)** | 2022-08-29 | <details><summary>13 pa...</summary><p>13 pages, 12 figures, published at Proceedings of the ACM International Conference on Supercomputing (ICS'22)</p></details> |
 
 ## Triton
 | **Title** | **Date** | **Comment** |
