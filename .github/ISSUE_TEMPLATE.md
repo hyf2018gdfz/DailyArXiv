@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 19, 2026
+title: Latest 15 Papers - May 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,13 +26,13 @@ labels: documentation
 ## Progressive Lowering
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[InvDesFlow-AL: active learning-based workflow for inverse design of functional materials](https://arxiv.org/abs/2505.09203v2)** | 2026-05-18 | 29 pages, 11 figures |
 | **[SAND: Spatially Adaptive Network Depth for Fast Sampling of Neural Implicit Surfaces](https://arxiv.org/abs/2604.25936v1)** | 2026-04-15 |  |
 | **[Agentic Code Optimization via Compiler-LLM Cooperation](https://arxiv.org/abs/2604.04238v1)** | 2026-04-05 |  |
 | **[Efficient Road Renovation Scheduling under Uncertainty using Lower Bound Pruning](https://arxiv.org/abs/2602.15554v1)** | 2026-02-17 | <details><summary>24 pa...</summary><p>24 pages, 14 figures, submitted to Computer-Aided Civil and Infrastructure Engineering</p></details> |
 | **[Code Contribution and Credit in Science](https://arxiv.org/abs/2510.16242v2)** | 2026-01-06 | <details><summary>Revis...</summary><p>Revisions after peer-review. This is the "Accepted" version of the paper!</p></details> |
 | **[Boundless Byte Pair Encoding: Breaking the Pre-tokenization Barrier](https://arxiv.org/abs/2504.00178v2)** | 2025-10-02 | <details><summary>Accep...</summary><p>Accepted to COLM 2025</p></details> |
 | **[A-MemGuard: A Proactive Defense Framework for LLM-Based Agent Memory](https://arxiv.org/abs/2510.02373v1)** | 2025-09-29 |  |
-| **[InvDesFlow-AL: Active Learning-based Workflow for Inverse Design of Functional Materials](https://arxiv.org/abs/2505.09203v1)** | 2025-05-14 | 29 pages, 11 figures |
 | **[Recursive lattice reduction -- A framework for finding short lattice vectors](https://arxiv.org/abs/2311.15064v3)** | 2025-04-20 | <details><summary>This ...</summary><p>This version is a minor edit of the previous version</p></details> |
 | **[ML-Triton, A Multi-Level Compilation and Language Extension to Triton GPU Programming](https://arxiv.org/abs/2503.14985v2)** | 2025-03-26 |  |
 | **[MIRAGE: Multimodal Immersive Reasoning and Guided Exploration for Red-Team Jailbreak Attacks](https://arxiv.org/abs/2503.19134v1)** | 2025-03-24 |  |
