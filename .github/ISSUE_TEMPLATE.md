@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 28, 2026
+title: Latest 15 Papers - May 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,9 +45,9 @@ labels: documentation
 ## Triton
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[DRTriton: Large-Scale Synthetic Data Driven Reinforcement Learning for Triton Kernel Generation](https://arxiv.org/abs/2603.21465v2)** | 2026-05-26 |  |
 | **[Cross-Platform Fused MoE Dispatch in Triton: Portable Expert Routing Without CUDA](https://arxiv.org/abs/2605.23911v1)** | 2026-04-07 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 6 tables</p></details> |
 | **[Sparton: Fast and Memory-Efficient Triton Kernel for Learned Sparse Retrieval](https://arxiv.org/abs/2603.25011v1)** | 2026-03-26 |  |
-| **[DRTriton: Large-Scale Synthetic Data Reinforcement Learning for Triton Kernel Generation](https://arxiv.org/abs/2603.21465v1)** | 2026-03-23 |  |
 | **[TritonRL: Training LLMs to Think and Code Triton Without Cheating](https://arxiv.org/abs/2510.17891v2)** | 2026-02-09 |  |
 | **[Scalable and Secure AI Inference in Healthcare: A Comparative Benchmarking of FastAPI and Triton Inference Server on Kubernetes](https://arxiv.org/abs/2602.00053v1)** | 2026-01-19 | <details><summary>2 pag...</summary><p>2 pages, 2 figures, 1 table</p></details> |
 | **[Green MLOps: Closed-Loop, Energy-Aware Inference with NVIDIA Triton, FastAPI, and Bio-Inspired Thresholding](https://arxiv.org/abs/2601.04250v1)** | 2026-01-06 | <details><summary>6 pag...</summary><p>6 pages, 4 figures. Code available at:https://github.com/InnoDeep-repos/Green_MLOps</p></details> |
