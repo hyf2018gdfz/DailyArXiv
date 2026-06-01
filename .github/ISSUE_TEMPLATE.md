@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 01, 2026
+title: Latest 15 Papers - June 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Progressive Lowering
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Scalable Inference-Time Annealing with Surrogate Likelihood Estimators](https://arxiv.org/abs/2605.31498v1)** | 2026-05-29 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, submitted to JMLR 2026</p></details> |
 | **[InvDesFlow-AL: active learning-based workflow for inverse design of functional materials](https://arxiv.org/abs/2505.09203v2)** | 2026-05-18 | 29 pages, 11 figures |
 | **[SAND: Spatially Adaptive Network Depth for Fast Sampling of Neural Implicit Surfaces](https://arxiv.org/abs/2604.25936v1)** | 2026-04-15 |  |
 | **[Agentic Code Optimization via Compiler-LLM Cooperation](https://arxiv.org/abs/2604.04238v1)** | 2026-04-05 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Multiple Global Peaks Big Bang-Big Crunch Algorithm for Multimodal Optimization](https://arxiv.org/abs/2410.18102v2)** | 2024-11-08 | 16 pages |
 | **[Single Parent Family: A Spectrum of Family Members from a Single Pre-Trained Foundation Model](https://arxiv.org/abs/2406.19995v1)** | 2024-06-28 |  |
 | **[CINM (Cinnamon): A Compilation Infrastructure for Heterogeneous Compute In-Memory and Compute Near-Memory Paradigms](https://arxiv.org/abs/2301.07486v4)** | 2024-05-24 | 16 pages, 12 figures |
-| **[C4CAM: A Compiler for CAM-based In-memory Accelerators](https://arxiv.org/abs/2309.06418v1)** | 2023-09-12 | 10 pages, 9 figures |
 
 ## Triton
 | **Title** | **Date** | **Comment** |
