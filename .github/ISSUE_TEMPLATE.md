@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 09, 2026
+title: Latest 15 Papers - June 10, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## MLIR
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SNN-MLIR: An MLIR Dialect for Compiling Neuromorphic SNNs from NIR to Bare-Metal C](https://arxiv.org/abs/2606.09213v1)** | 2026-06-08 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 5 tables</p></details> |
 | **[Practical Formal Verification for MLIR Programs](https://arxiv.org/abs/2605.01124v1)** | 2026-05-01 |  |
 | **[Demonstrating a Future for MLIR-native DSL Compilers on a NumPy-like Example](https://arxiv.org/abs/2604.19906v2)** | 2026-04-27 | 17 pages, 5 figures |
 | **[Aquas: Enhancing Domain Specialization through Holistic Hardware-Software Co-Optimization based on MLIR](https://arxiv.org/abs/2511.22267v2)** | 2026-04-18 |  |
@@ -21,13 +22,12 @@ labels: documentation
 | **[MLIR-Smith: A Novel Random Program Generator for Evaluating Compiler Pipelines](https://arxiv.org/abs/2601.02218v1)** | 2026-01-05 |  |
 | **[Integrating Quantum Software Tools with(in) MLIR](https://arxiv.org/abs/2601.02062v1)** | 2026-01-05 | 13 pages, 7 figures |
 | **[A Reinforcement Learning Environment for Automatic Code Optimization in the MLIR Compiler](https://arxiv.org/abs/2409.11068v2)** | 2025-12-20 |  |
-| **[Nice to Meet You: Synthesizing Practical MLIR Abstract Transformers](https://arxiv.org/abs/2512.06442v1)** | 2025-12-06 |  |
 
 ## Progressive Lowering
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Scalable Inference-Time Annealing with Surrogate Likelihood Estimators](https://arxiv.org/abs/2605.31498v3)** | 2026-06-08 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, submitted to JMLR 2026</p></details> |
 | **[Model Multiplicity and Predictive Arbitrariness in Recidivism Risk Assessment](https://arxiv.org/abs/2606.02198v1)** | 2026-06-01 | 17 pages, 12 figures |
-| **[Scalable Inference-Time Annealing with Surrogate Likelihood Estimators](https://arxiv.org/abs/2605.31498v2)** | 2026-06-01 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, submitted to JMLR 2026</p></details> |
 | **[InvDesFlow-AL: active learning-based workflow for inverse design of functional materials](https://arxiv.org/abs/2505.09203v2)** | 2026-05-18 | 29 pages, 11 figures |
 | **[SAND: Spatially Adaptive Network Depth for Fast Sampling of Neural Implicit Surfaces](https://arxiv.org/abs/2604.25936v1)** | 2026-04-15 |  |
 | **[Agentic Code Optimization via Compiler-LLM Cooperation](https://arxiv.org/abs/2604.04238v1)** | 2026-04-05 |  |
