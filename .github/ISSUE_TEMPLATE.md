@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 23, 2026
+title: Latest 15 Papers - June 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Progressive Lowering
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[NektarIR: A Domain-Specific Compiler for High-Order Finite Element Operations on Heterogeneous Hardware](https://arxiv.org/abs/2606.20917v1)** | 2026-06-18 | 23 pages, 10 figures |
 | **[Scalable Inference-Time Annealing with Surrogate Likelihood Estimators](https://arxiv.org/abs/2605.31498v3)** | 2026-06-08 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, submitted to JMLR 2026</p></details> |
 | **[Model Multiplicity and Predictive Arbitrariness in Recidivism Risk Assessment](https://arxiv.org/abs/2606.02198v1)** | 2026-06-01 | 17 pages, 12 figures |
 | **[InvDesFlow-AL: active learning-based workflow for inverse design of functional materials](https://arxiv.org/abs/2505.09203v2)** | 2026-05-18 | 29 pages, 11 figures |
@@ -40,7 +41,6 @@ labels: documentation
 | **[MIRAGE: Multimodal Immersive Reasoning and Guided Exploration for Red-Team Jailbreak Attacks](https://arxiv.org/abs/2503.19134v1)** | 2025-03-24 |  |
 | **[A Multi-level Compiler Backend for Accelerated Micro-kernels Targeting RISC-V ISA Extensions](https://arxiv.org/abs/2502.04063v1)** | 2025-02-06 |  |
 | **[Multiple Global Peaks Big Bang-Big Crunch Algorithm for Multimodal Optimization](https://arxiv.org/abs/2410.18102v2)** | 2024-11-08 | 16 pages |
-| **[Single Parent Family: A Spectrum of Family Members from a Single Pre-Trained Foundation Model](https://arxiv.org/abs/2406.19995v1)** | 2024-06-28 |  |
 
 ## Triton
 | **Title** | **Date** | **Comment** |
