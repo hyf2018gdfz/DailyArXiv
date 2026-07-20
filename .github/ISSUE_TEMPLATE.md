@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 20, 2026
+title: Latest 15 Papers - July 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## MLIR
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[An MLIR-Based Compilation Method for Large Language Models](https://arxiv.org/abs/2607.15865v1)** | 2026-07-17 |  |
 | **[TensorLift: Automatic Extraction of Tensor-Level ISA Semantics from Accelerator RTL via MLIR Semantic Lifting](https://arxiv.org/abs/2604.13523v2)** | 2026-07-12 | <details><summary>Accep...</summary><p>Accepted by ICCAD '26, this is not the camera-ready version</p></details> |
 | **[MLIR for Quantum Beyond Gate Cancellation: Quantum Circuit Mapping Reimagined](https://arxiv.org/abs/2607.02616v1)** | 2026-07-01 | 11 pages, 14 figures |
 | **[Reading AI Model Compilation in MLIR Through the Lens of Formal Theories](https://arxiv.org/abs/2606.25244v1)** | 2026-06-24 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Analyzing Latency Hiding and Parallelism in an MLIR-based AI Kernel Compiler](https://arxiv.org/abs/2602.20204v1)** | 2026-02-22 | <details><summary>Accep...</summary><p>Accepted at MLBench workshop as part of ASPLOS'26</p></details> |
 | **[MING: An Automated CNN-to-Edge MLIR HLS framework](https://arxiv.org/abs/2602.11966v1)** | 2026-02-12 |  |
 | **[An MLIR Lowering Pipeline for Stencils at Wafer-Scale](https://arxiv.org/abs/2601.17754v1)** | 2026-01-25 | <details><summary>Paper...</summary><p>Paper in ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS '26)</p></details> |
-| **[MLIR-Forge: A Modular Framework for Language Smiths](https://arxiv.org/abs/2601.09583v1)** | 2026-01-14 |  |
 
 ## Progressive Lowering
 | **Title** | **Date** | **Comment** |
