@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 21, 2026
+title: Latest 15 Papers - July 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Triton
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FlashPDE: A Drop-in Fused Triton Operator Library for Neural PDE Solvers](https://arxiv.org/abs/2607.18020v1)** | 2026-07-20 | <details><summary>9 pag...</summary><p>9 pages of main text, 4 figures. Code available at https://github.com/factnn/FlashPDE</p></details> |
 | **[DRTriton: Large-Scale Synthetic Data Driven Reinforcement Learning for Triton Kernel Generation](https://arxiv.org/abs/2603.21465v2)** | 2026-05-26 |  |
 | **[Cross-Platform Fused MoE Dispatch in Triton: Portable Expert Routing Without CUDA](https://arxiv.org/abs/2605.23911v1)** | 2026-04-07 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 6 tables</p></details> |
 | **[Sparton: Fast and Memory-Efficient Triton Kernel for Learned Sparse Retrieval](https://arxiv.org/abs/2603.25011v1)** | 2026-03-26 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[NineToothed: A Triton-Based High-Level Domain-Specific Language for Machine Learning](https://arxiv.org/abs/2507.11978v1)** | 2025-07-16 |  |
 | **[AutoTriton: Automatic Triton Programming with Reinforcement Learning in LLMs](https://arxiv.org/abs/2507.05687v1)** | 2025-07-08 |  |
 | **[Fast and Simplex: 2-Simplicial Attention in Triton](https://arxiv.org/abs/2507.02754v1)** | 2025-07-03 | <details><summary>10 pa...</summary><p>10 pages, with appendix 25 pages</p></details> |
-| **[Triton-distributed: Programming Overlapping Kernels on Distributed AI Systems with the Triton Compiler](https://arxiv.org/abs/2504.19442v3)** | 2025-06-05 |  |
 
