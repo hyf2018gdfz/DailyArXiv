@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 22, 2026
+title: Latest 15 Papers - July 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -12,6 +12,7 @@ labels: documentation
 | **[MLIR for Quantum Beyond Gate Cancellation: Quantum Circuit Mapping Reimagined](https://arxiv.org/abs/2607.02616v1)** | 2026-07-01 | 11 pages, 14 figures |
 | **[Reading AI Model Compilation in MLIR Through the Lens of Formal Theories](https://arxiv.org/abs/2606.25244v1)** | 2026-06-24 |  |
 | **[SNN-MLIR: An MLIR Dialect for Compiling Neuromorphic SNNs from NIR to Bare-Metal C](https://arxiv.org/abs/2606.09213v1)** | 2026-06-08 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 5 tables</p></details> |
+| **[Cross-Dialect Generalization Without Retraining: Benchmarks and Evaluation of Schema-Derived Constrained Decoding for MLIR](https://arxiv.org/abs/2607.18254v1)** | 2026-05-14 | <details><summary>27 pa...</summary><p>27 pages (9 main + bibliography + appendix), 9 figures, 9 tables. Code, benchmarks, and reproducibility Docker image at https://github.com/plawanrath/slm-to-mlir-constrained-emitter</p></details> |
 | **[Practical Formal Verification for MLIR Programs](https://arxiv.org/abs/2605.01124v1)** | 2026-05-01 |  |
 | **[Demonstrating a Future for MLIR-native DSL Compilers on a NumPy-like Example](https://arxiv.org/abs/2604.19906v2)** | 2026-04-27 | 17 pages, 5 figures |
 | **[Aquas: Enhancing Domain Specialization through Holistic Hardware-Software Co-Optimization based on MLIR](https://arxiv.org/abs/2511.22267v2)** | 2026-04-18 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Hexagon-MLIR: An AI Compilation Stack For Qualcomm's Neural Processing Units (NPUs)](https://arxiv.org/abs/2602.19762v1)** | 2026-02-23 |  |
 | **[Analyzing Latency Hiding and Parallelism in an MLIR-based AI Kernel Compiler](https://arxiv.org/abs/2602.20204v1)** | 2026-02-22 | <details><summary>Accep...</summary><p>Accepted at MLBench workshop as part of ASPLOS'26</p></details> |
 | **[MING: An Automated CNN-to-Edge MLIR HLS framework](https://arxiv.org/abs/2602.11966v1)** | 2026-02-12 |  |
-| **[An MLIR Lowering Pipeline for Stencils at Wafer-Scale](https://arxiv.org/abs/2601.17754v1)** | 2026-01-25 | <details><summary>Paper...</summary><p>Paper in ACM International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS '26)</p></details> |
 
 ## Progressive Lowering
 | **Title** | **Date** | **Comment** |
