@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 28, 2026
+title: Latest 15 Papers - July 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,7 +7,7 @@ labels: documentation
 ## MLIR
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[An MLIR-Based Compilation Method for Large Language Models](https://arxiv.org/abs/2607.15865v1)** | 2026-07-17 |  |
+| **[An MLIR-Based Compilation Method for Large Language Models](https://arxiv.org/abs/2607.15865v2)** | 2026-07-25 |  |
 | **[TensorLift: Automatic Extraction of Tensor-Level ISA Semantics from Accelerator RTL via MLIR Semantic Lifting](https://arxiv.org/abs/2604.13523v2)** | 2026-07-12 | <details><summary>Accep...</summary><p>Accepted by ICCAD '26, this is not the camera-ready version</p></details> |
 | **[MLIR for Quantum Beyond Gate Cancellation: Quantum Circuit Mapping Reimagined](https://arxiv.org/abs/2607.02616v1)** | 2026-07-01 | 11 pages, 14 figures |
 | **[Reading AI Model Compilation in MLIR Through the Lens of Formal Theories](https://arxiv.org/abs/2606.25244v1)** | 2026-06-24 |  |
@@ -45,6 +45,7 @@ labels: documentation
 ## Triton
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Compiler-Grounded Hierarchical Diagnosis for LLM-Based Triton Kernel Optimization](https://arxiv.org/abs/2607.23089v1)** | 2026-07-25 |  |
 | **[FlashPDE: A Drop-In Fused Triton Operator Library for Neural PDE Solvers](https://arxiv.org/abs/2607.18020v3)** | 2026-07-24 | <details><summary>9 pag...</summary><p>9 pages of main text, 4 figures. Code available at https://github.com/factnn/FlashPDE</p></details> |
 | **[DRTriton: Large-Scale Synthetic Data Driven Reinforcement Learning for Triton Kernel Generation](https://arxiv.org/abs/2603.21465v2)** | 2026-05-26 |  |
 | **[Cross-Platform Fused MoE Dispatch in Triton: Portable Expert Routing Without CUDA](https://arxiv.org/abs/2605.23911v1)** | 2026-04-07 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 6 tables</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Geak: Introducing Triton Kernel AI Agent & Evaluation Benchmarks](https://arxiv.org/abs/2507.23194v1)** | 2025-07-31 |  |
 | **[NineToothed: A Triton-Based High-Level Domain-Specific Language for Machine Learning](https://arxiv.org/abs/2507.11978v1)** | 2025-07-16 |  |
 | **[AutoTriton: Automatic Triton Programming with Reinforcement Learning in LLMs](https://arxiv.org/abs/2507.05687v1)** | 2025-07-08 |  |
-| **[Fast and Simplex: 2-Simplicial Attention in Triton](https://arxiv.org/abs/2507.02754v1)** | 2025-07-03 | <details><summary>10 pa...</summary><p>10 pages, with appendix 25 pages</p></details> |
 
