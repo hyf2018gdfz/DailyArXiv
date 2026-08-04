@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 04, 2026
+title: Latest 15 Papers - August 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Triton
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Triton for MTIA: Bridging the Programming Model Gaps for Custom AI Accelerators](https://arxiv.org/abs/2608.00325v1)** | 2026-07-31 | <details><summary>12 pa...</summary><p>12 pages, 12 figures, to be published in IEEE Micro</p></details> |
 | **[Compiler-Grounded Hierarchical Diagnosis for LLM-Based Triton Kernel Optimization](https://arxiv.org/abs/2607.23089v1)** | 2026-07-25 |  |
 | **[FlashPDE: A Drop-In Fused Triton Operator Library for Neural PDE Solvers](https://arxiv.org/abs/2607.18020v3)** | 2026-07-24 | <details><summary>9 pag...</summary><p>9 pages of main text, 4 figures. Code available at https://github.com/factnn/FlashPDE</p></details> |
 | **[DRTriton: Large-Scale Synthetic Data Driven Reinforcement Learning for Triton Kernel Generation](https://arxiv.org/abs/2603.21465v2)** | 2026-05-26 |  |
@@ -59,5 +60,4 @@ labels: documentation
 | **[The Anatomy of a Triton Attention Kernel](https://arxiv.org/abs/2511.11581v1)** | 2025-10-07 |  |
 | **[Geak: Introducing Triton Kernel AI Agent & Evaluation Benchmarks](https://arxiv.org/abs/2507.23194v1)** | 2025-07-31 |  |
 | **[NineToothed: A Triton-Based High-Level Domain-Specific Language for Machine Learning](https://arxiv.org/abs/2507.11978v1)** | 2025-07-16 |  |
-| **[AutoTriton: Automatic Triton Programming with Reinforcement Learning in LLMs](https://arxiv.org/abs/2507.05687v1)** | 2025-07-08 |  |
 
