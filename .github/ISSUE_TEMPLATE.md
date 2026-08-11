@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 11, 2026
+title: Latest 15 Papers - August 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Progressive Lowering
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Don't Retrain, Just Reuse: Recovering Dual-Target Molecules from Single-Target Diffusion Models](https://arxiv.org/abs/2605.25681v2)** | 2026-08-10 |  |
 | **[NektarIR: A Domain-Specific Compiler for High-Order Finite Element Operations on Heterogeneous Hardware](https://arxiv.org/abs/2606.20917v1)** | 2026-06-18 | 23 pages, 10 figures |
 | **[Scalable Inference-Time Annealing with Surrogate Likelihood Estimators](https://arxiv.org/abs/2605.31498v3)** | 2026-06-08 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, submitted to JMLR 2026</p></details> |
 | **[Model Multiplicity and Predictive Arbitrariness in Recidivism Risk Assessment](https://arxiv.org/abs/2606.02198v1)** | 2026-06-01 | 17 pages, 12 figures |
@@ -40,11 +41,11 @@ labels: documentation
 | **[ML-Triton, A Multi-Level Compilation and Language Extension to Triton GPU Programming](https://arxiv.org/abs/2503.14985v2)** | 2025-03-26 |  |
 | **[MIRAGE: Multimodal Immersive Reasoning and Guided Exploration for Red-Team Jailbreak Attacks](https://arxiv.org/abs/2503.19134v1)** | 2025-03-24 |  |
 | **[A Multi-level Compiler Backend for Accelerated Micro-kernels Targeting RISC-V ISA Extensions](https://arxiv.org/abs/2502.04063v1)** | 2025-02-06 |  |
-| **[Multiple Global Peaks Big Bang-Big Crunch Algorithm for Multimodal Optimization](https://arxiv.org/abs/2410.18102v2)** | 2024-11-08 | 16 pages |
 
 ## Triton
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[What Irregularity Costs: CUDA C++, Rust, and Triton on a Hash-Blocked GPU Workload](https://arxiv.org/abs/2608.08287v1)** | 2026-08-08 | <details><summary>23 pa...</summary><p>23 pages, 5 figures, 4 tables. Includes a correctness result for TSDF fusion implementations: at hash load factors reached by ordinary depth trajectories, the Triton implementation silently discards blocks. Code, raw measurement CSVs and an interactive viewer: https://github.com/realitymatrix/what-irregularity-costs</p></details> |
 | **[Triton for MTIA: Bridging the Programming Model Gaps for Custom AI Accelerators](https://arxiv.org/abs/2608.00325v1)** | 2026-07-31 | <details><summary>12 pa...</summary><p>12 pages, 12 figures, to be published in IEEE Micro</p></details> |
 | **[Compiler-Grounded Hierarchical Diagnosis for LLM-Based Triton Kernel Optimization](https://arxiv.org/abs/2607.23089v1)** | 2026-07-25 |  |
 | **[FlashPDE: A Drop-In Fused Triton Operator Library for Neural PDE Solvers](https://arxiv.org/abs/2607.18020v3)** | 2026-07-24 | <details><summary>9 pag...</summary><p>9 pages of main text, 4 figures. Code available at https://github.com/factnn/FlashPDE</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[Iris: First-Class Multi-GPU Programming Experience in Triton](https://arxiv.org/abs/2511.12500v1)** | 2025-11-16 |  |
 | **[The Anatomy of a Triton Attention Kernel](https://arxiv.org/abs/2511.11581v1)** | 2025-10-07 |  |
 | **[Geak: Introducing Triton Kernel AI Agent & Evaluation Benchmarks](https://arxiv.org/abs/2507.23194v1)** | 2025-07-31 |  |
-| **[NineToothed: A Triton-Based High-Level Domain-Specific Language for Machine Learning](https://arxiv.org/abs/2507.11978v1)** | 2025-07-16 |  |
 
