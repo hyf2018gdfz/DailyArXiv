@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 12, 2026
+title: Latest 15 Papers - August 13, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,10 +26,10 @@ labels: documentation
 ## Progressive Lowering
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Model Multiplicity and Predictive Arbitrariness in Recidivism Risk Assessment](https://arxiv.org/abs/2606.02198v2)** | 2026-08-11 | <details><summary>17 pa...</summary><p>17 pages, 12 figures; This version is equivalent to the one that will appear at AIES 2026, except that it includes appendices</p></details> |
 | **[Don't Retrain, Just Reuse: Recovering Dual-Target Molecules from Single-Target Diffusion Models](https://arxiv.org/abs/2605.25681v2)** | 2026-08-10 |  |
 | **[NektarIR: A Domain-Specific Compiler for High-Order Finite Element Operations on Heterogeneous Hardware](https://arxiv.org/abs/2606.20917v1)** | 2026-06-18 | 23 pages, 10 figures |
 | **[Scalable Inference-Time Annealing with Surrogate Likelihood Estimators](https://arxiv.org/abs/2605.31498v3)** | 2026-06-08 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, submitted to JMLR 2026</p></details> |
-| **[Model Multiplicity and Predictive Arbitrariness in Recidivism Risk Assessment](https://arxiv.org/abs/2606.02198v1)** | 2026-06-01 | 17 pages, 12 figures |
 | **[InvDesFlow-AL: active learning-based workflow for inverse design of functional materials](https://arxiv.org/abs/2505.09203v2)** | 2026-05-18 | 29 pages, 11 figures |
 | **[SAND: Spatially Adaptive Network Depth for Fast Sampling of Neural Implicit Surfaces](https://arxiv.org/abs/2604.25936v1)** | 2026-04-15 |  |
 | **[Agentic Code Optimization via Compiler-LLM Cooperation](https://arxiv.org/abs/2604.04238v1)** | 2026-04-05 |  |
