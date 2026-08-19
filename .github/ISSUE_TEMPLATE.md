@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 19, 2026
+title: Latest 15 Papers - August 20, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## Progressive Lowering
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CryptDough: A Unified Analytics Engine for Secure Multiparty Computation](https://arxiv.org/abs/2608.17529v1)** | 2026-08-18 |  |
 | **[Model Multiplicity and Predictive Arbitrariness in Recidivism Risk Assessment](https://arxiv.org/abs/2606.02198v2)** | 2026-08-11 | <details><summary>17 pa...</summary><p>17 pages, 12 figures; This version is equivalent to the one that will appear at AIES 2026, except that it includes appendices</p></details> |
 | **[Don't Retrain, Just Reuse: Recovering Dual-Target Molecules from Single-Target Diffusion Models](https://arxiv.org/abs/2605.25681v2)** | 2026-08-10 |  |
 | **[NektarIR: A Domain-Specific Compiler for High-Order Finite Element Operations on Heterogeneous Hardware](https://arxiv.org/abs/2606.20917v1)** | 2026-06-18 | 23 pages, 10 figures |
@@ -40,11 +41,11 @@ labels: documentation
 | **[Recursive lattice reduction -- A framework for finding short lattice vectors](https://arxiv.org/abs/2311.15064v3)** | 2025-04-20 | <details><summary>This ...</summary><p>This version is a minor edit of the previous version</p></details> |
 | **[ML-Triton, A Multi-Level Compilation and Language Extension to Triton GPU Programming](https://arxiv.org/abs/2503.14985v2)** | 2025-03-26 |  |
 | **[MIRAGE: Multimodal Immersive Reasoning and Guided Exploration for Red-Team Jailbreak Attacks](https://arxiv.org/abs/2503.19134v1)** | 2025-03-24 |  |
-| **[A Multi-level Compiler Backend for Accelerated Micro-kernels Targeting RISC-V ISA Extensions](https://arxiv.org/abs/2502.04063v1)** | 2025-02-06 |  |
 
 ## Triton
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[rl-triton: High-Performance Triton GPU Kernels for Reinforcement Learning Credit Assignment](https://arxiv.org/abs/2608.17641v1)** | 2026-08-18 | <details><summary>18 pa...</summary><p>18 pages, 3 figures, 6 tables. Code: https://github.com/simonsays1980/rl-triton</p></details> |
 | **[Triton for MTIA: Bridging the Programming Model Gaps for Custom AI Accelerators](https://arxiv.org/abs/2608.00325v2)** | 2026-08-12 | <details><summary>12 pa...</summary><p>12 pages, 12 figures, to be published in IEEE Micro</p></details> |
 | **[RealisticTritonBench: A Benchmark for Triton-Kernel Generation in Real-World AI Frameworks](https://arxiv.org/abs/2608.12004v1)** | 2026-08-12 | Accepted by ASE 2026 |
 | **[What Irregularity Costs: CUDA C++, Rust, and Triton on a Hash-Blocked GPU Workload](https://arxiv.org/abs/2608.08287v1)** | 2026-08-08 | <details><summary>23 pa...</summary><p>23 pages, 5 figures, 4 tables. Includes a correctness result for TSDF fusion implementations: at hash load factors reached by ordinary depth trajectories, the Triton implementation silently discards blocks. Code, raw measurement CSVs and an interactive viewer: https://github.com/realitymatrix/what-irregularity-costs</p></details> |
@@ -59,5 +60,4 @@ labels: documentation
 | **[TritonForge: Profiling-Guided Framework for Automated Triton Kernel Optimization](https://arxiv.org/abs/2512.09196v2)** | 2025-12-14 |  |
 | **[tritonBLAS: Triton-based Analytical Approach for GEMM Kernel Parameter Selection](https://arxiv.org/abs/2512.04226v1)** | 2025-12-03 |  |
 | **[Iris: First-Class Multi-GPU Programming Experience in Triton](https://arxiv.org/abs/2511.12500v1)** | 2025-11-16 |  |
-| **[The Anatomy of a Triton Attention Kernel](https://arxiv.org/abs/2511.11581v1)** | 2025-10-07 |  |
 
