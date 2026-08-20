@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 20, 2026
+title: Latest 15 Papers - August 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,7 +45,7 @@ labels: documentation
 ## Triton
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[rl-triton: High-Performance Triton GPU Kernels for Reinforcement Learning Credit Assignment](https://arxiv.org/abs/2608.17641v1)** | 2026-08-18 | <details><summary>18 pa...</summary><p>18 pages, 3 figures, 6 tables. Code: https://github.com/simonsays1980/rl-triton</p></details> |
+| **[rl-triton: High-Performance Triton GPU Kernels for Reinforcement Learning Credit Assignment](https://arxiv.org/abs/2608.17641v2)** | 2026-08-19 | <details><summary>18 pa...</summary><p>18 pages, 3 figures, 6 tables. Code: https://github.com/simonsays1980/rl-triton</p></details> |
 | **[Triton for MTIA: Bridging the Programming Model Gaps for Custom AI Accelerators](https://arxiv.org/abs/2608.00325v2)** | 2026-08-12 | <details><summary>12 pa...</summary><p>12 pages, 12 figures, to be published in IEEE Micro</p></details> |
 | **[RealisticTritonBench: A Benchmark for Triton-Kernel Generation in Real-World AI Frameworks](https://arxiv.org/abs/2608.12004v1)** | 2026-08-12 | Accepted by ASE 2026 |
 | **[What Irregularity Costs: CUDA C++, Rust, and Triton on a Hash-Blocked GPU Workload](https://arxiv.org/abs/2608.08287v1)** | 2026-08-08 | <details><summary>23 pa...</summary><p>23 pages, 5 figures, 4 tables. Includes a correctness result for TSDF fusion implementations: at hash load factors reached by ordinary depth trajectories, the Triton implementation silently discards blocks. Code, raw measurement CSVs and an interactive viewer: https://github.com/realitymatrix/what-irregularity-costs</p></details> |
