@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 27, 2026
+title: Latest 15 Papers - August 31, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,8 +7,8 @@ labels: documentation
 ## MLIR
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TensorLift: Automatic Extraction of Tensor-Level ISA Semantics from Accelerator RTL via MLIR Semantic Lifting](https://arxiv.org/abs/2604.13523v3)** | 2026-08-26 | <details><summary>ICCAD...</summary><p>ICCAD '26 camera-ready version</p></details> |
 | **[An MLIR-Based Compilation Method for Large Language Models](https://arxiv.org/abs/2607.15865v2)** | 2026-07-25 |  |
-| **[TensorLift: Automatic Extraction of Tensor-Level ISA Semantics from Accelerator RTL via MLIR Semantic Lifting](https://arxiv.org/abs/2604.13523v2)** | 2026-07-12 | <details><summary>Accep...</summary><p>Accepted by ICCAD '26, this is not the camera-ready version</p></details> |
 | **[MLIR for Quantum Beyond Gate Cancellation: Quantum Circuit Mapping Reimagined](https://arxiv.org/abs/2607.02616v1)** | 2026-07-01 | 11 pages, 14 figures |
 | **[Reading AI Model Compilation in MLIR Through the Lens of Formal Theories](https://arxiv.org/abs/2606.25244v1)** | 2026-06-24 |  |
 | **[SNN-MLIR: An MLIR Dialect for Compiling Neuromorphic SNNs from NIR to Bare-Metal C](https://arxiv.org/abs/2606.09213v1)** | 2026-06-08 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 5 tables</p></details> |
